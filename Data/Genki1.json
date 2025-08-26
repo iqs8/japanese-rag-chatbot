@@ -1,0 +1,796 @@
+[
+{
+  "book": "Genki 1",
+  "lesson": 1,
+  "sublesson": 1,
+  "page": [41,42],
+  "topic": "X は Y です",
+  "chunk_id": 1,
+  "text": "\"I am a student.\" \"My major is the Japanese language.\" \"It is 12:30\". These sentences will all be translated \r\ninto Japanese using an appropriate noun and the word desu.\r\n\r\n**〜です。     It is...**\r\n\r\nがくせいです。= (I) am a student.\r\nGakusee desu.\r\n\r\nにほんごです。= (My major) is the Japanese language.\r\nNihongo desu.\r\n\r\nじゅうにはんです。= (It) is half past twelve.\r\nJuunji han desu.\r\n\r\nNote that none of these sentences has a \"subject,\" like the \"I,\" \"my major,\" and \"it\" found in their English \r\ncounterparts. Sentences without subjects are very common in Japanese; Japanese speakers actually tend to omit \r\nsubjects whenever they think it is clear to the listener what or who they are referring to.\r\n\r\nIf it is not clear from the background situation or the preceding context what is being talked about, you can\r\n start a sentence with a \"topic\" marked by wa. Note that when we write in hiragana, we use the letter は for \r\n topic wa following the classical orthography.¹\r\n\r\n**XはYです。     X is Y. As for X, it is Y.**\r\n\r\nせんこうは にほんごです。= (My) major is the Japanese language.\r\nSenkou wa nihongo desu.\r\n\r\nわたしは ソラ・キムです。= I am Sora Kim.\r\nWatashi wa Sora Kimu desu.\r\n\r\nやましたさんは せんせいです。=  Mr. Yamashita is a teacher.\r\nYamashita san wa sensee desu.\r\n\r\nメアリーさんは アメリカじんです。= Mary is an American.\r\nMearii san wa amerikajin desu.\r\n\r\n¹ The hiragana は therefore has two pronunciations: wa (in the topic position) and ha (in most other positions). \r\nThere are few exceptions, such as konnichiwa (good afternoon) and konbanwa (good evening). They are usually \r\nwritten with こんにちは and こんばんは.\r\n\r\nWa is a member of the class of words called \"particles.\" So is the word no, which we will turn to later in this lesson. \r\nWe add particles to noun phrases to indicate how the phrases relate to the rest of the sentence.\r\n\r\nNote also that nouns like gakusee and sensee in the above examples stand alone, unlike their English translations \r\n\"student\" and \"teacher,\" which are preceded by \"a.\" In Japanese, there is no item that corresponds to \"a,\" nor is \r\nthere any item that corresponds to the plural \"-s\" at the end of a noun. Without context, a sentence like \r\ngakusee desu is therefore ambiguous in terms of the singular and plural interpretations.\r\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 1,
+  "sublesson": 2,
+  "page": [42,43],
+  "topic": "Question Sentences",
+  "chunk_id": 2,
+  "text": "You can just add ka at the end of a statement and turn it into a question.\r\n\r\nりゅうがくせいです。= (I am) an international student.\r\nRyuugakusee desu.\r\n\r\nりゅうがくせいですか。² = (Are you) an international student?\r\nRyuugakusee desu ka.\r\n\r\nThe above sentence, Ryuugakusee desu ka, is a \"yes/no\" question. Question sentences may also contain a \r\n\"question word\" like nan³ (what). In this lesson, we learn how to ask, and answer, questions using the following \r\nquestion words: nanji (what time), nansai (how old), nannensee (what year in school), and nanban (what number).\r\n\r\nA: せんこうは なんですか。\r\nB: （せんこうは）えいごです。\r\nSenkou wa nan desu ka.\r\n(Senkou wa) eego desu.\r\nA: What is your major?\r\nB: (My major) is English.\r\n\r\nA: いま なんじですか。\r\nB: （いま）くじです。\r\nIma nanji desu ka.\r\n(Ima) kuji desu.\r\nA: What time is it now?\r\nB: It is nine o\"clock.\r\n\r\nA: メアリーさんは なんさいですか。\r\nB: じゅうきゅうさいです。\r\nMearii san wa nansai desu ka.\r\nJuukyuusai desu.\r\nA: How old are you, Mary?\r\nB: I’m nineteen years old.\r\n\r\nA: なんねんせいですか。\r\nB: にねんせいです。\r\nNannensee desu ka.\r\nNinensee desu.\r\nA: What year are you in college?\r\nB: I’m a sophomore.\r\n\r\n² It is not customary to write a question mark at the end of a question sentence in Japanese.\r\n³ The Japanese question word for \"what\" has two pronunciations: nan and nani. Nan is used immediately \r\nbefore desu or before a \"counter\" like ji (o\"clock). The other form, nani, is used before a particle. \r\nNani is also used in the combination nanjin (person of what nationality).\r\n\r\nA: でんわばんごうは なんばんですか。\r\nB: 867-5309です。\r\nDenwa bangou wa nanban desu ka.\r\nHachi roku nana go san zero kyuu desu.\r\nA: What is your telephone number?\r\nB: It is 867-5309."
+},
+{
+  "book": "Genki 1",
+  "lesson": 1,
+  "sublesson": 3,
+  "page": [43],
+  "topic": "3 Noun₁ の Noun₂",
+  "chunk_id": 3,
+  "text": "\nNo is a particle that connects two nouns. The phrase Sakura daigaku no gakusee means \"a student at Sakura University.\" The second noun gakusee provides the main idea⁴ (being a student) and the first one Sakura daigaku makes it more specific (not a high school, but a college student). You can use no like the possessive (\"'s/Takeshi's\") in English, as in the first example below. Here are some examples of no between two nouns. The main idea is always the noun₂ with the noun₁ providing restrictions, specifications, etc.\n\n**noun₁ の noun₂**\n↑          ↑\nrestriction main idea\n\nたけしさんの でんわばんごう = Takeshi's phone number\nTakeshi san no denwa bangou\n\nだいがくの せんせい = a college professor\ndaigaku no sensee\n\nにほんごの がくせい = a student of the Japanese language\nnihongo no gakusee\n\nにほんの だいがく = a college in Japan\nNihon no daigaku\n\nA phrase of the form \"noun₁ no noun₂\" acts more or less like one big noun. You can put it wherever you \ncan put a noun, as in the following example:\n\nたけしさんの おかあさん は こうこうの せんせい です。\nTakeshi san no  okaasan wa  kookoo no  sensee desu.\n\nTakeshi's mother  is  a high school teacher.\n\n⁴ Here is what we mean by the \"main idea.\" In the phrase Takeshi san no denwa bangou (Takeshi's phone number),\nthe noun denwa bangou (phone number) is the main idea, in the sense that if something is Takeshi's phone number, \nit is a phone number. The other noun Takeshi san is not the main idea, because Takeshi's phone number is not Takeshi.\n"
+},
+
+
+
+
+
+
+
+
+{
+  "book": "Genki 1",
+  "lesson": 2,
+  "sublesson": 1,
+  "page": [60],
+  "topic": "これ/それ/あれ/どれ",
+  "chunk_id": 4,
+  "text": "\nWhen you want to talk about \"this thing,\" \"that one,\" and so forth, you can use kore, sore, and are.\n\nこれは いくらですか。  \nKore wa ikura desu ka.  \n*How much is this?*\n\nそれは さんぜんえんです。  \nSore wa sanzen en desu.  \n*That is 3,000 yen.*\n\nWe have one word for \"this\" and two words for \"that.\" Kore refers to a thing that is close to you, \nthe speaker (\"this thing here\"). Sore is something that is close to the person you are talking to \n(\"that thing in front of you\"), and are refers to a thing that is neither close to the speaker nor the listener \n(\"that one over there\").\n\nあれは わたしの ペンです。  \nAre wa watashi no pen desu.\n\n[ILLUSTRATION: Shows people pointing at different objects to demonstrate kore, sore, and are usage]\n\nこれは わたしの ペンです。  \nKore wa watashi no pen desu.\n\nそれは わたしの ペンです。  \nSore wa watashi no pen desu.\n\nThere is also an expression dore for \"which.\"\n\nどれですか。  \nDore desu ka.  \n*Which one is it (that you are talking about)?*\n\nAvoid using these re series words in reference to people in their earshot as in introducing people:\n\n×これは ともだちの メアリーさんです。  \nKore wa tomodachi no Mearii san desu.  \n*This is my friend Mary.*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 2,
+  "sublesson": 2,
+  "page": [61],
+  "topic": "この/その/あの/どの + Noun",
+  "chunk_id": 5,
+  "text": "\nIn the last section, we learned that kore, sore, and are stand for \"this thing\" and \"that thing.\" \nIf you want to say \"this book,\" \"that watch,\" and so forth, you can use kono, sono, and ano together \nwith a noun. In other words, the re series stand alone and are directly followed by wa, while the no \nseries must be followed by a noun before it gets connected to wa. You can use kono, sono, and ano plus a \nnoun in reference to people as well as things, unlike kore, sore, and are, which are sometimes considered \nimpolite if they are used in reference to people.\n\nこのとけいは いくらですか。  \nKono tokee wa ikura desu ka.  \n*How much is this watch?*\n\nそのとけいは さんぜんえんです。  \nSono tokee wa sanzen en desu.  \n*That watch (in your hand) is 3,000 yen.*\n\nあのがくせいは りゅうがくせいです。  \nAno gakusee wa ryuugakusee desu.  \n*That student over there is an international student.*\n\nIf you already know that one of several students is Japanese but do not know which, you can say:\n\nどのがくせいが にほんじんですか。  \nDono gakusee ga nihonjin desu ka.  \n*Which student is Japanese?*\n\nTo summarize:\n\n| これ (は～) | この noun (は～) | close to the person speaking |\n| それ (は～) | その noun (は～) | close to the person listening |\n| あれ (は～) | あの noun (は～) | far from both people |\n| どれ (が～) | どの noun (が～) | unknown |\n\n---\n\n**Footnotes:**\n¹ Question words like dore and nani cannot be followed by the particle wa. Instead, you must use the particle ga and say, Dore ga anata no pen desu ka. (Which one is your pen?) We will turn to this issue in Lesson 8.\n\n² It is okay to use the re series words for humans if you are referring to people that have appeared in an earlier passage, or if you are just pointing at a picture of a person.\n\n³ Since dono is a question word, just like dore discussed in footnote 1, we cannot use the particle wa with it; we must use ga.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 2,
+  "sublesson": 3,
+  "page": [62],
+  "topic": "ここ/そこ/あそこ/どこ",
+  "chunk_id": 6,
+  "text": "\nWe will learn just one more ko-so-a-do set: koko, soko, asoko, and doko are words for places.\n\n| ここ | here, near me |\n| そこ | there, near you |\n| あそこ | over there |\n| どこ | where |\n\nYou can ask for directions by saying:\n\nすみません。ゆうびんきょくは どこですか。  \nSumimasen. Yuubinkyoku wa doko desu ka.  \n*Excuse me. Where is the post office?*\n\nYou can point toward the post office and say:\n\n(ゆうびんきょくは) あそこです。  \n(Yuubinkyoku wa) asoko desu.  \n*(The post office is) right over there.*\n\nWe will learn how to give more specific directions in Lesson 4.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 2,
+  "sublesson": 4,
+  "page": [62],
+  "topic": "だれの Noun",
+  "chunk_id": 7,
+  "text": "\nIn Lesson 1, we learned how to say things like Mearii san no denwa bangoo (Mary's phone number) and Takeshi san no okaasan (Takeshi's mother). We now learn how to ask who something belongs to. The question word for \"who\" is dare, and for \"whose,\" we add the particle no and say dare no.\n\nA：これは だれの かばんですか。  \nKore wa dare no kaban desu ka.  \n*Whose bag is this?*\n\nB：それは ソラさんの かばんです。  \nSore wa Sora san no kaban desu.  \n*That is Sora's bag.*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 2,
+  "sublesson": 5,
+  "page": [62,63],
+  "topic": "Noun も",
+  "chunk_id": 8,
+  "text": "\nIn Lesson 1, we learned how to say \"Item A is this, item B is that.\" We now learn how to say \"Item A is this, \nand item B is this, too.\" The word for \"too\" in Japanese is particle mo.\n\nたけしさんは にほんじんです。  \nTakeshi san wa nihonjin desu.  \n*Takeshi is a Japanese person.*\n\nゆいさんも にほんじんです。  \nYui san mo nihonjin desu.  \n*Yui is Japanese, too.*\n\nPay attention to where the particle is placed. In English, the word \"too\" can be placed after the sentence as a\nwhole, as in the translation above. In Japanese you can only put mo directly after the item that is just like \nanother that has been introduced earlier. In the example above Yui san gets mo, because it is the \"likewise\" \nitem which shares the property of being a Japanese person with Takeshi san.⁴\n\n| A は | X です。 | *A is X.* |\n| B も | X です。 | *B too is X.* |\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 2,
+  "sublesson": 6,
+  "page": [63,64],
+  "topic": "Noun じゃないです",
+  "chunk_id": 9,
+  "text": "\nTo negate a statement of the form X wa Y desu, where Y is a noun, you replace desu with ja nai desu.⁵\n\nやまださんは がくせいじゃないです。  \nYamada san wa gakusee ja nai desu.  \n*Mr. Yamada is not a student.*\n\nYou find several stylistic variants in negative sentences. Ja nai desu is very colloquial. The more formal \nreplacement for nai desu is arimasen. Ja is a contraction of de wa, which is more formal and more appropriate in \nhe written language. Thus in addition to the above sentence, you also find:\n\nやまださんは がくせいじゃありません。(more conservative speech style)  \nYamada san wa gakusee ja arimasen.\n\nやまださんは がくせいではありません。(formal, appropriate for writing)  \nYamada san wa gakusee de wa arimasen.\n\n---\n\n**Footnotes:**\n\n⁵ In the dialogues, there are two sentences ending with desu that call for special attention: Are mo takai \ndesu ne (That one too is expensive), and Oishii desu yo (It is delicious). These sentences cannot be negated by \nreplacing desu with ja nai desu, because takai and oishii are not nouns. \nAre mo takai ja nai desu and oishii ja nai desu are therefore not grammatical. \nInstead, one would have to say takaku nai desu and oishiku nai desu. We will learn about the conjugation \npattern of adjectives in Lesson 5.\n\nDesu and ja nai must always be accompanied by a noun. In answer to a question, therefore, desu and \nja nai do not stand alone.\n\nA：にほんじんですか。  \nNihonjin desu ka.  \n*Are you Japanese?*\n\nB：いいえ、にほんじんじゃないです。  \nIie, nihonjin ja nai desu.  \n*No, I am not Japanese.*\n\n×いいえ、じゃないです。  \nIie, ja nai desu.\n\n| affirmative: | (X は) Y です。 | *X is Y.* |\n| negative: | (X は) Y じゃないです / じゃありません / ではありません。 | *X is not Y.* |\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 2,
+  "sublesson": 7,
+  "page": [64],
+  "topic": "～ね/～よ",
+  "chunk_id": 10,
+  "text": "\nStatements often end with the tags ne or yo, depending on the way the speaker views the interaction with the listener.\nIf you are seeking the listener's confirmation or agreement to what you are saying, you add ne (\"right?\") to\nyour sentence.\n\nリーさんの せんこうは ぶんがくですね。  \nRii san no senkou wa bungaku desu ne.  \n*Ms. Lee, your major is literature, right?*\n\nこれは にくじゃないですね。  \nKore wa niku ja nai desu ne.  \n*This is not meat, is it?*\n\nIf you want to tell the listener that you are fully confident of what you are saying and \nthe listener had better believe it, use yo (\"I tell you\") at the end of your sentence.\n\nとんかつは さかなじゃないですよ。  \nTonkatsu wa sakana ja nai desu yo.  \n*Let me assure you. \"Tonkatsu\" is not fish.*\n\nスミスさんは イギリスじんですよ。  \nSumisu san wa igirisujin desu yo.  \n*(In case you're wondering.) Mr. Smith is British.*\n"
+},
+
+
+
+
+
+
+
+
+{
+  "book": "Genki 1",
+  "lesson": 3,
+  "sublesson": 1,
+  "page": [86,87,88],
+  "topic": "Verb Conjugation",
+  "chunk_id": 11,
+  "text": "\nIn this lesson, we learn about the dictionary forms¹, the present tense affirmative forms, and the present \ntense negative forms.\n\nThree Groups of Verbs\n\nWe sort Japanese verbs into three groups based on their conjugation: ru-verbs, u-verbs, and irregular verbs.\n\n(1) Ru-verbs\n\nRu-verbs are made up of a base which ends with either e or i plus the suffix ru. All ru-verbs, therefore, \nend with eru or iru. (So, if you see a verb that ends with aru, oru, or uru, you can be sure that they are \nnot ru-verbs.²)\n\n食べる (tabe + ru)    寝る (ne + ru)    起きる (oki + ru)    見る (mi + ru)\n\n(2) U-verbs\n\nU-verbs are made up of a consonant-final base plus u (e.g., 飲む nom + u). Note that 帰る ends with an eru \nsequence but is not a ru-verb as defined above. The r sound in 帰る comes from the base and not from the suffix.\n\n飲む (nom + u)    読む (yom + u)    話す (hanas + u)\n聞く (kik + u)    行く (ik + u)     帰る (kaer + u)\n\n#### (3) Irregular verbs³\n\nThere are two \"irregular verbs,\" する and くる. する is a very productive element. \n勉強する is an example of a complex verb formed by a noun and する.\n\nする (suru)    勉強する (benkyoosuru)    くる (kuru)\n\n---\n\n### Present Tense Conjugation\n\nLet's now turn to the present tense conjugation. With ru-verbs, you simply replace ru with masu \n(affirmative) or masen (negative).\n\n#### Ru-verbs\n| Dictionary form | Present, affirmative | Present, negative |\n|-----------------|---------------------|-------------------|\n| 食べる          | 食べます            | 食べません        |\n| 寝る            | 寝ます              | 寝ません          |\n| 起きる          | 起きます            | 起きません        |\n| 見る            | 見ます              | 見ません          |\n\nWith u-verbs, you replace u with imasu and imasen. You can think of the change as going up and down in the same hiragana column (shifting between み and む in the column まみむめも, for example).\n\n#### U-verbs\n| Dictionary form | Present, affirmative | Present, negative |\n|-----------------|---------------------|-------------------|\n| 飲む            | 飲みます            | 飲みません        |\n| 読む            | 読みます            | 読みません        |\n| 話す            | 話します            | 話しません        |\n| 聞く            | 聞きます            | 聞きません        |\n| 行く            | 行きます            | 行きません        |\n\n帰る is an u-verb, and the verb base final consonant r is kept in the present tense conjugation. \nSo, instead of × 帰ます, we have:\n\nDictionary form: 帰る\nPresent, affirmative: 帰ります\nPresent, negative: 帰りません\n\nWith irregular verbs, the conjugation looks like the following.\n\nIrregular verbs\n| Dictionary form | Present, affirmative | Present, negative |\n|-----------------|---------------------|-------------------|\n| する            | します              | しません          |\n| 勉強する        | 勉強します          | 勉強しません      |\n| くる            | きます              | きません          |\n\n---\n\nMake sure you remember which verb belongs to which conjugation class. It is a good idea, therefore, \nto memorize each verb as a set: instead of memorizing just the dictionary form, try to memorize the \ndictionary form and the present tense affirmative, like 行く→行きます.\n\nTo recap the rules for telling which verb that ends with hiragana る belongs to which class, \nwe note that if a verb ends with\n\n• aru or oru, it is definitely an u-verb\n• uru, it can either be an irregular verb or an u-verb\n• iru or eru, it is more likely to be a ru-verb, but it can also be an u-verb.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 3,
+  "sublesson": 2,
+  "page": [88],
+  "topic": "Verb Types and the \"Present Tense\"",
+  "chunk_id": 12,
+  "text": "\nIn this lesson we learn about a dozen verbs that describe basic human actions. These are often called \n\"action verbs,\" and the \"present tense\" of these verbs either means (1) that a person habitually or \nregularly engages in these activities, or (2) that a person will, or is planning to, perform these activities \nin the future.⁴\n\nHabitual actions:\n私はよくテレビを見ます。\nI often watch TV.\n\nメアリーさんはときどき朝ご飯を食べません。\nMary sometimes doesn't eat breakfast.\n\nFuture actions:\n私はあした京都に行きます\n\nI will go to Kyoto tomorrow.\nソラさんは今日うちに帰りません。\nSora will not return home today.\n"
+}
+,
+{
+  "book": "Genki 1",
+  "lesson": 3,
+  "sublesson": 3,
+  "page": [88,89],
+  "topic": "Particles",
+  "chunk_id": 13,
+  "text": "\nNouns used in sentences generally must be followed by particles, which indicate the relations that the nouns \nbear to the verbs.⁵ In this lesson, we learn four particles: を, で, に, and へ.\n\n### を (Direct object)\nThe particle を indicates \"direct objects,\" the kind of things that are directly involved in, or \naffected by, the event. Note that this particle is pronounced \"o.\"\n\nコーヒーを飲みます。    I drink coffee.\n音楽を聞きます。        I listen to music.\nテレビを見ます。        I watch TV.\n\n### で (Place of action)\nThe particle で indicates where the event described by the verb takes place.\n\n図書館で本を読みます。      I will read books in the library.\nうちで昼ご飯を食べます。    I will eat lunch at home.\n\n### に\nThe particle に has many meanings, but here we will learn two: (1) the goal toward which things move, and (2) the time at which an event takes place.\n\n#### (1) Goal of movement (for verbs like 行く, 来る and 帰る)\n今日学校に行きません。    I will not go to school today.\nうちに帰ります。          I will return home.\n\n#### (2) Time (We will discuss more about this in Section 4 below.)\n日曜日に京都に行きます。  I will go to Kyoto on Sunday.\n十一時に寝ます。          I will go to bed at eleven.\n\nApproximate time references can be made by substituting ごろ or ころ に for に. Thus,\n\n十一時ごろ/十一時ころに寝ます。  I will go to bed at about eleven.\n\n### へ (Goal of movement)\nWith verbs 行く, 来る and 帰る, you can replace the goal of movement に with へ. You cannot replace に for time reference with へ. Note that this particle is pronounced \"e.\"\n\n今日学校へ行きません。    I will not go to school today.\nうちへ帰ります。          I will return home.\n"
+}
+,
+{
+  "book": "Genki 1",
+  "lesson": 3,
+  "sublesson": 4,
+  "page": [90],
+  "topic": "Time References",
+  "chunk_id": 14,
+  "text": "\nYou need the particle に with (1) the days of the week like \"on Sunday,\" and (2) numerical time \nexpressions, like \"at 10:45,\" and \"in September.\"\n\n日曜日に行きます。  \nにちようび に いきます。  \n*I will go on Sunday.*\n\n十時四十五分に起きます。  \nじゅうじ よんじゅうごふん に おきます。  \n*I get up at 10:45.*\n\n九月に帰ります。  \nくがつ に かえります。  \n*I will go back in September.*\n\nYou do not use the particle に with (1) time expressions defined relative to the present moment, \nsuch as \"today\" and \"tomorrow,\" (2) expressions describing regular intervals, such as \"every day,\" \nand (3) the word for \"when.\"\n\nあした来ます。  \nあした きます。  \n*I will come tomorrow.*\n\n毎晩テレビを見ます。  \nまいばん テレビ を みます。  \n*I watch TV every evening.*\n\nいつ行きますか。  \nいつ いきますか。  \n*When will you go?*\n\nYou normally do not use に with (1) the parts of a day, like \"in the morning\" and \"at night,\" and (2) \nthe word for \"weekend.\" Unlike words like あした and 毎晩 above, however, these words can be followed by\n に, depending on styles, emphases, and personal preferences.\n\n朝（に）本を読みます。  \nあさ（に）ほん を よみます。  \n*I read a book in the morning.*\n\n週末（に）何をしますか。  \nしゅうまつ（に）なに を しますか。  \n*What will you do on weekends?*\n"
+}
+,
+{
+  "book": "Genki 1",
+  "lesson": 3,
+  "sublesson": 5,
+  "page": [90],
+  "topic": "〜ませんか",
+  "chunk_id": 15,
+  "text": "\nYou can use ませんか (= the present tense negative verb, plus the question particle) to extend an invitation. \nIt should be noted that its affirmative counterpart, ますか, cannot be so used. Thus a sentence like\n昼ご飯を食べますか can only be construed as a question, not as an invitation.\n\nA：昼ご飯を食べませんか。  \nA：ひるごはん を たべませんか。  \n*What do you say to having lunch with me?*\n\nB：いいですね。  \nB：いいですね。  \n*Sounds great.*\n\nA：テニスをしませんか。  \nA：テニス を しませんか。  \n*Will you play tennis with me?*\n\nB：うーん、ちょっと。  \nB：うーん、ちょっと。  \n*Um, it's slightly (inconvenient for me at this moment).*\n"
+}
+,
+{
+  "book": "Genki 1",
+  "lesson": 3,
+  "sublesson": 6,
+  "page": [91],
+  "topic": "Frequency Adverbs",
+  "chunk_id": 16,
+  "text": "\nYou can add a frequency adverb such as 毎日 (every day), よく (often), and ときどき (sometimes) to a sentence to \ndescribe how often you do something.\n\n私はときどき図書館に行きます。  \nわたし は ときどき としょかん に いきます。  \n*I sometimes go to a library.*\n\nIn this lesson, we also learn two adverbs which describe how infrequent an activity or an event is: ぜんぜん \n(never; not at all) and あまり (not often; not very much). These adverbs anticipate the negative at the end of \nthe sentence. If you use ぜんぜん or あまり, in other words, you need to conclude the sentence with ません.\n\n私はぜんぜんテレビを見ません。  \nわたし は ぜんぜん テレビ を みません。  \n*I do not watch TV at all.*\n\nたけしさんはあまり勉強しません。  \nたけし さん は あまり べんきょう しません。  \n*Takeshi does not study much.*\n"
+}
+,
+{
+  "book": "Genki 1",
+  "lesson": 3,
+  "sublesson": 7,
+  "page": [91],
+  "topic": "Word Order",
+  "chunk_id": 17,
+  "text": "\nJapanese sentences are fairly flexible in the arrangement of elements that appear in them. Generally, \nsentences are made up of several noun-particle sequences followed by a verb or an adjective. A typical sentence, \ntherefore, looks like the following, but several other arrangements of noun-particle sequences are also possible.\n\n私は　今日　図書館で　日本語を　勉強します。  \nわたし は　きょう　としょかん で　にほんご を　べんきょう します。  \ntopic　time　place　object　verb  \n*I will study Japanese in the library today.*\n\n私は　よく　七時ごろ　うちへ　帰ります。  \nわたし は　よく　しちじ ごろ　うち へ　かえります。  \ntopic　frequency　time　goal　verb  \n*I often go back home at around seven.*\n"
+}
+,
+{
+  "book": "Genki 1",
+  "lesson": 3,
+  "sublesson": 8,
+  "page": [91,92],
+  "topic": "The Topic Particle は",
+  "chunk_id": 18,
+  "text": "\nAs we saw in Lesson 1, the particle は presents the topic of one's utterance (\"As for item X, it is such that...\"). \nIt puts forward the item that you want to talk about. You may have noted that the topic phrases in sentences such \nas メアリーさんは二年生です (Mary is a sophomore), and 私の専攻は日本語です (My major is the Japanese language), are \nthe subjects of those sentences. A topic phrase, however, need not be the subject of a sentence. We see three sentences \nin the dialogue of this lesson where nonsubject phrases are made topics with the help of the particle は.\n\nメアリーさん、週末はたいてい何をしますか。  \nメアリー さん、しゅうまつ は たいてい なに を しますか。  \n*Mary, what do you usually do on the weekend?*\n\n今日は京都に行きます。  \nきょう は きょうと に いきます。  \n*I'm going to Kyoto today.*\n\nIn the above two examples, は presents time expressions as the topic of each sentence. \nIts effects can be paraphrased like these: \"Let's talk about weekends; what do you do on weekends?\" \"Let me say what \nI will do today; I will go to Kyoto.\"\n\nA：晩ご飯は？  \nA：ばんごはん は？  \n*How about dinner?*\n\nB：食べません。  \nB：たべません。  \n*I will not eat.*\n\nIn this example, は is used in directing the listener's attention and thereby inviting a comment or \ncompletion of a sentence. You may also note that the broached topic, 晩ご飯, does not stand in subject \nrelation to the verb, but is rather its direct object.\n\n"
+},
+
+
+
+
+
+
+
+{
+  "book": "Genki 1",
+  "lesson": 4,
+  "sublesson": 1,
+  "page": [107,108],
+  "topic": "Xがあります/います",
+  "chunk_id": 19,
+  "text": "\nYou can use the verbs あります (for non-living things) and います (for people and other living, moving things) \nwhen you want to say \"there is/are X.\"\n\nあそこにマクドナルドがあります。  \n*There's a McDonald's over there.*\n\nThe thing that you are presenting is accompanied by the particle が¹ (unlike the verbs we have seen so far, \nwhich call for は). The place where the thing is is accompanied by the particle に (unlike the other verbs \nwhich call for で). You usually describe the place first, and then the thing, as in the example above.¹\n\nYou can also use あります to say that you *have* or *own* something.²\n\nテレビがありません。  \n*I don't have a TV.*\n\n時間がありますか。  \n*Do you have time?*\n\nWe also use あります when we want to say that *an event will take place.*³\n\n火曜日にテストがあります。  \n*There will be an exam on Tuesday.*\n\nあした日本語のクラスがありません。  \n*There will be no Japanese class tomorrow.*\n\n---\n\n**Footnotes:**\n¹ ある also differs from other verbs in its colloquial substandard negative form (see footnote 1 in Lesson 3).\n We have ないです, instead of the expected regular formation あらないです, which is ungrammatical.\n\n² Note the difference between:\nテレビがありません (I don't have a TV), the negative version of テレビがあります, and\nテレビじゃありません (It isn't a TV), the more conservative version of テレビじゃないです.\n\n³ When あります is used in the sense of an event taking place, the place description is followed by the\nparticle で, like normal verbs and unlike the other uses of あります.\nあした京都でお祭りがあります。 *There will be a festival in Kyoto tomorrow.*\nAs we discussed in Lesson 3, some time expressions (such as 日曜日に) come with the particle に, and some \nothers (such as あした) do not. The same rule applies to the あります sentences.\n\nWhen you want to say that there is a *person* or other living, moving thing, you need to use the verb います.⁴ Thus,\n\nあそこに留学生がいます。  \n*There's an international student over there.*\n\nYou can also use います to say that you *have* friends, siblings, and so forth.\n\n日本人の友だちがいます。  \n*I have a Japanese friend.*\n\n**[TABLE FORMAT]**\n(place に) { thing が あります | person が います } *There is/are...*\n\n**Footnote:**\n⁴ Note that the same verb \"is\" in English comes out differently in Japanese:\nあそこに留学生がいます。 *There is an international student over there.*\nメアリーさんは留学生です。 *Mary is an international student.*\nいます and あります are strictly for descriptions of existence and location, while です is for description of \nan attribute of a person or a thing.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 4,
+  "sublesson": 2,
+  "page": [108,109],
+  "topic": "Describing Where Things Are",
+  "chunk_id": 20,
+  "text": "\nWe learned in Lesson 2 how to ask for, and give, the location of item X.\n\nA：マクドナルドはどこですか。  \n*Where's McDonald's?*\n\nB：マクドナルドは { あそこ | そこ | ここ } です。  \n*McDonald's is { over there. | right there near you. | right here. }*\n\nIn this lesson, we will learn to describe the location of an item relative to another item, as in \"X is in \nfront of Y.\" The Japanese version looks like XはYの前です.\n\n（マクドナルドは）あのホテルの前です。  \n*It's in front of that hotel.*\n\nOther useful words describing locations are as follows:\n\n**location words**\nみぎ - *to the right of*\nひだり - *to the left of*\nまえ - *in front of*\nうしろ - *behind*\nなか - *inside*\nうえ - *on/above*\nした - *under/beneath*\nちかく⁵ - *near*\nとなり⁶ - *next to*\n\nXはYの { [location words] } です。  \nX is { [corresponding English] } Y.\n\nXはYとZのあいだです。  \n*X is between Y and Z.*\n\n銀行は図書館のとなりです。  \n*The bank is next to the library.*\n\n傘はテーブルの下です。  \n*The umbrella is under the table.*\n\nレストランはスーパーと病院の間です。  \n*The restaurant is between the supermarket and the hospital.*\n\nYou can use any of the above location words together with a verb to describe an event that occurs in that place. \nTo use these phrases with verbs such as 食べる and 待つ, you will need the particle で.\n\n私はモスバーガーの前でメアリーさんを待ちました。  \n*I waited for Mary in front of the Mos Burger place.*\n\n---\n\n**Footnotes:**\n⁵ Another word for \"near\" that is also commonly used is そば.\n⁶ Use となり to describe two people or two buildings/places that are found side by side. You can use よこ for a\n much wider range of things.\nカバンは机のよこです。 *The bag is by the desk.*\n×カバンは机のとなりです。 (odd)\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 4,
+  "sublesson": 3,
+  "page": [110],
+  "topic": "Past Tense of です",
+  "chunk_id": 21,
+  "text": "\nThe past tense versions of \"XはYです\" sentences are でした in the affirmative and じゃなかったです in the negative.\n\n**[TABLE FORMAT]**\nです\n(Present) - affirmative: ～です | negative: ～じゃないです\n(Past) - affirmative: ～でした | negative: ～じゃなかったです⁷\n\n山下先生はさくら大学の学生でした。  \n*Mr. Yamashita was a student at Sakura University.*\n\nあれは日本の映画じゃなかったです。  \n*That was not a Japanese movie.*\n\n⁷ As was the case with the present tense じゃないです, you also find a more conservative variant じゃありませんでした \nalong with じゃなかったです. Written communications would more likely have ではありませんでした, with the uncontracted \nform では.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 4,
+  "sublesson": 4,
+  "page": [110],
+  "topic": "Past Tense of Verbs",
+  "chunk_id": 22,
+  "text": "\nThe past tense forms of verbs end with ました in the affirmative and ませんでした in the negative.\n\n**Verbs**\n(Present) - affirmative: ～ます | negative: ～ません\n(Past) - affirmative: ～ました | negative: ～ませんでした⁸\n\nメアリーさんは九時ごろに帰りました。  \n*Mary returned home at about nine.*\n\n私はきのう日本語を勉強しませんでした。  \n*I did not study Japanese yesterday.*\n\nThe various details of formation of the long forms that we learned in Lesson 3, like the ru-verb/u-verb/irregular \nverb distinctions, all apply to the past tense forms as well.\n\n⁸ The colloquial substandard forms of the past tense negative verbs are なかったです, as in 帰らなかったです. We \nwill learn how to change verbs into these forms in Lesson 9.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 4,
+  "sublesson": 5,
+  "page": [111],
+  "topic": "も",
+  "chunk_id": 23,
+  "text": "\nWe learned in Lesson 2 that we use the particle も in reference to the second item which shares a common attribute \nwith the first. You can also use も when two or more people perform the same activity.\n\n私はきのう京都に行きました。  \n*I went to Kyoto yesterday.*\n\n山下先生もきのう京都に行きました。  \n*Professor Yamashita went to Kyoto yesterday, too.*\n\nOr when someone buys, sees, or eats two or more things.\n\nメアリーさんは靴を買いました。  \n*Mary bought shoes.*\n\nメアリーさんはかばんも買いました。  \n*Mary bought a bag, too.*\n\nIn the examples above, you are replacing は and を with も. With other particles such as に and で, you keep \nthem and follow them up with も.\n\n私は先週京都に行きました。  \n*I went to Kyoto last week.*\n\n大阪にも行きました。  \n*I went to Osaka, too.*\n\nソラさんは土曜日に学校に来ました。  \n*Sora came to school on Saturday.*\n\n日曜日にも学校に来ました。  \n*She came to school on Sunday, too.*\n\nけんさんはうちで本を読みました。  \n*Ken read a book at home.*\n\nカフェでも本を読みました。  \n*He read a book at a cafe, too.*\n\nJust like は replacing は or を, you put も on the new item that is just like the first item introduced in the \npreceding sentence; in the examples above, you visited both Kyoto and Osaka, Sora came to school both on Saturday \nand Sunday, and so forth.\n\n**[TABLE FORMAT]**\nは/が/を → も\nに/で/etc. → にも/でも/etc.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 4,
+  "sublesson": 6,
+  "page": [112],
+  "topic": "一時間 (いちじかん)",
+  "chunk_id": 24,
+  "text": "\nThe duration of an activity is expressed with a bare noun, like 一時間. Such a noun stands alone (that is, \nnot followed by any particle).\n\nメアリーさんはそこでたけしさんを一時間待ちました。  \n*Mary waited for Takeshi there for an hour.*\n\nFor an approximate measurement, you can add ぐらい⁹ after ～時間.\n\n私はきのう日本語を三時間ぐらい勉強しました。  \n*I studied Japanese for about three hours yesterday.*\n\nTo say one hour and a half, you can add 半 immediately after ～時間.\n\nきのう七時間半寝ました。  \n*(I) slept for seven and a half hours last night.*\n\nIf you want to say both 半 and ぐらい, ぐらい comes last, as in 一時間半ぐらい.\n⁹ As we learned in Lesson 3, we have another word for \"at about a certain time,\" ごろ.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 4,
+  "sublesson": 7,
+  "page": [112],
+  "topic": "たくさん",
+  "chunk_id": 25,
+  "text": "\nExpressions of quantity in Japanese are rather different from those in English. In Japanese, if you want to \nadd a quantity word like たくさん to the direct object of a sentence, you can either place it before the noun, \nor after the particle を.\n\n京都で { 写真をたくさん | たくさん写真を } 撮りました。  \n*I took many pictures in Kyoto.*\n\nYou can also use both these orders (quantity-noun-particle and noun-particle-quantity) in ある and いる sentences.\n\n{ 野菜がたくさん | たくさん野菜が } あります。  \n*There are a lot of vegetables.*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 4,
+  "sublesson": 8,
+  "page": [113],
+  "topic": "と",
+  "chunk_id": 26,
+  "text": "\nThe particle と has two functions. One is to connect two nouns A and B.¹⁰\n\n日本語と英語を話します。  \n*I speak Japanese and English.*\n\n京都と大阪に行きました。  \n*I went to Kyoto and Osaka.*\n\nThe other meaning of と is \"together with\"; it describes *with whom* you do something.¹¹\n\nメアリーさんはソラさんと韓国に行きます。  \n*Mary will go to Korea with Sora.*\n\n¹⁰ You can use と to connect nouns only. We will learn about connecting verbs and sentences in Lesson 6.\n¹¹ \"With\" as in \"with chopsticks\" requires another particle. See Lesson 10.\n"
+}
+
+
+
+
+
+
+
+
+
+
+,
+{
+  "book": "Genki 1",
+  "lesson": 5,
+  "sublesson": 1,
+  "page": [132,133],
+  "topic": "Adjectives (Present Tense)",
+  "chunk_id": 27,
+  "text": "\nThere are two types of adjectives in Japanese: \"い-adjectives\" and \"な-adjectives.\" They conjugate for tense \n(present and past), polarity (affirmative and negative), and so forth, just as verbs do. The two types of \nadjectives follow different conjugation patterns.\n\nYou just add です to both い-adjectives and な-adjectives for affirmative present tense sentences. In negative \nsentences, you replace the last い of an い-adjective with くない. な-adjectives are just like nouns and you only\n need to change です to じゃないです.\n\n### [Present]\n\n**い-adjectives**\n- e.g. さむい\n\n**Affirmative:** さむいです  \n*It is cold.*\n\n**Negative:** さむくないです  \n(or さむくありません)  \n*It is not cold.*\n\n**な-adjectives**\n- e.g. 元気（な）\n\n**Affirmative:** 元気です  \n*She is healthy.*\n\n**Negative:** 元気じゃないです  \n(or 元気じゃありません)  \n*She is not healthy.*\n\n**Example Dialogue:**\n- A：その本はおもしろいですか。 *Is that book interesting?*\n- B：いいえ、あまりおもしろくないです。 *No, it is not very interesting.*\n- A：今日、ひまですか。 *Are you free today?*\n- B：いいえ、ひまじゃないです。 *No, I'm not.*\n\nWith both い- and な-adjectives, you find two negative forms: ないです and ありません. The ないです pattern is more\ncolloquial, and ありません is more conservative and more appropriate in the written language. Just like negation \nwith nouns (see Lesson 2), じゃ in the negative version can also be replaced with では in more formal situations. \nDon't apply the noun/な-adjective pattern to い-adjectives. It is wrong to say ×さむいじゃないです, for example.\n\nUnlike verbs, adjectives conjugate fairly uniformly. The only irregularity worth noticing at this stage is the \nbehavior of the adjective いい (good). The first syllable of いい is changed to よ in all forms except the dictionary\n form.¹ Compound adjectives like かっこいい that are built with いい follow this syllable change² and we say \n かっこよくないです.\n\n### [Present] (irregular)\n\n**いい**\n\n**Affirmative:** いいです  \n**Negative:** よくないです  \n(or よくありません)\n\nIf you want to say things like \"very hot,\" and \"a little hot,\" you can add \"degree adverbs\" like とても \n(extremely), とても (very) and ちょっと (a little; slightly) before adjectives.\n\n- 沖縄の海はとてもきれいです。 *The sea is very beautiful in Okinawa.*\n- この部屋はちょっと暑いです。 *This room is a little hot.*\n\n¹ There actually are alternative forms, よい and よいです, but they are much less frequently used than いい \nand いいです in the spoken language.\n\n² Despite its appearance when it is written in hiragana, かわいい (cute), which we will learn in Lesson 7, is \nnot made up of いい, and therefore does not go through this い to よ change, and we say かわいくないです.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 5,
+  "sublesson": 2,
+  "page": [133,134],
+  "topic": "Adjectives (Past Tense)",
+  "chunk_id": 28,
+  "text": "\nWith い-adjectives, you change the last い to かったです in the affirmative. In the negative, you only need to \nchange the present tense くない to くなかったです. な-adjectives are again just like nouns. Don't confuse the two \npatterns. It is wrong to say ×さむいでした, for example.\n\n### [Past]\n\n**い-adjectives**\n- e.g. さむい\n\n**Affirmative:** さむかったです  \n*It was cold.*\n\n**Negative:** さむくなかったです  \n(or さむくありませんでした)  \n*It was not cold.*\n\n**な-adjectives**\n- e.g. 元気（な）\n\n**Affirmative:** 元気でした  \n*She was healthy.*\n\n**Negative:** 元気じゃなかったです  \n(or 元気じゃありませんでした)  \n*She was not healthy.*\n\n**Example Dialogue:**\n- A：テストは難しかったですか。 *Was the exam difficult?*\n- B：いいえ、ぜんぜん難しくなかったです。 *No, it was not difficult at all.*\n- A：その町はにぎやかでしたか。 *Was the town lively?*\n- B：いいえ、にぎやかじゃなかったです。 *No, it was not livery.*\n\nThe い-adjective いい (good) is again irregular. Its first syllable is changed to よ.\n\n### [Past] (irregular)\n\n**いい**\n\n**Affirmative:** よかったです  \n**Negative:** よくなかったです  \n(or よくありませんでした)\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 5,
+  "sublesson": 3,
+  "page": [134],
+  "topic": "Adjectives (Noun Modification)",
+  "chunk_id": 29,
+  "text": "\nYou can use い- and な- adjectives to modify nouns. Place the dictionary form of an い-adjective before the \nnoun you want to modify. With な-adjectives, you see な, which was missing before です, return.\n\n- **い-adjectives:** おもしろい映画 *an interesting movie*\n- **な-adjectives:** きれいな写真 *a beautiful picture*\n\n**Examples:**\n- きのう、おもしろい映画を見ました。 *I saw an interesting movie yesterday.*\n- 山下先生はこわい先生です。 *Professor Yamashita is a scary teacher.*\n- 京都できれいな写真を撮りました。 *I took a beautiful picture in Kyoto.*\n- ここはとてもにぎやかな町です。 *This is a very vibrant city.*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 5,
+  "sublesson": 4,
+  "page": [135],
+  "topic": "好き（な）/ きらい（な）",
+  "chunk_id": 30,
+  "text": "\nSome Japanese adjectives are like verbs in English, and they take a subject and an object. 好き（な）(to be fond \nof; to like), and きらい（な）(to be disgusted with; to dislike) are examples. If you like something or somebody, \nfor example, 私 is will be the subject and the object of your affection will be Yが.³\n\n**Pattern:** X は Y が {好き/きらい} です。 X {likes/dislikes} Y.\n\n**Examples:**\n- ロバートさんは日本語のクラスが好きです。 *Robert likes his Japanese classes.*\n- 山下先生は魚がきらいです。 *Professor Yamashita dislikes fish.*\n\nIf you like or dislike something (or somebody) very much, you can use the intensified forms of 好きです and きらいです, \nnamely, 大好きです (like very much) and 大きらいです (hate), which are more often used than the degree modifier とても, \nin combination with 好きです and きらいです.\n\n**Examples:**\n- たけしさんはコーヒーが大好きです。 *Takeshi likes coffee a lot.*\n- ソラさんはなっとうが大きらいです。 *Sora hates natto (Japanese fermented soybeans).*\n\nIf you want to be neutral and say that you neither like nor dislike something, you can say:\n\n- 好きでもきらいでもないです。 *I neither like nor dislike (it).*\n\nYou can use 好きな and きらいな as modifiers of nouns. For example, you can say things like:\n\n- これは私の好きな本です。 *This is my favorite book.*\n\n³ In the expression of romantic or familial affection, the complex particle のことが can replace が. Thus,\nたけしさんはメリーさんのことが好きです。 = メリーさんが好きです。\n*Takeshi is in love with Mary.*\n\n⁴ In contexts where you are contrasting two or more items, the particle は is used instead of が. Thus,\n私は野菜は好きですが、肉はきらいです。 *I like vegetables, but I don't like meat.*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 5,
+  "sublesson": 5,
+  "page": [136],
+  "topic": "～ましょう / ～ましょうか",
+  "chunk_id": 31,
+  "text": "\nTake a long form of a verb and replace the ます ending with ましょう or ましょうか and you will get the \nJapanese expression for \"let's . . . ,\" which you can use to suggest a plan of action.\n\n**Examples:**\n- 一緒に図書館で勉強しましょう。 *Let's study in the library together.*\n- あそこでコーヒーを飲みましょうか。 *Shall we drink coffee over there?*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 5,
+  "sublesson": 6,
+  "page": [136],
+  "topic": "Counting",
+  "chunk_id": 32,
+  "text": "\nWhen we count items in Japanese, we use different number words for different kinds of items; the words used for \ncounting people are different from the words used for counting books, for example. Number words often come after, \nrather than before, the items counted in a sentence.\n\n**Example:**\nリーさんは Tシャツを 三枚 買いました。 *Lee bought three T-shirts.*\n\nThe number word, 三枚, is made up of the numeral 三 and the \"counter\" 枚. This counter is used for sheets of paper \nand other flat objects. There will be other counters in later lessons—for people, for books, for stick-like objects, \nand so forth. You can find what counter to use for what kind of items, and how the sound of number words changes in \ncombination with counters in the table on pages 380-381.\n"
+}
+
+
+
+
+
+
+
+
+,
+{
+  "book": "Genki 1",
+  "lesson": 6,
+  "sublesson": 1,
+  "page": [150,151],
+  "topic": "Te-form",
+  "chunk_id": 33,
+  "text": "\nTe-forms are a very important part of Japanese grammar. In this lesson, we will learn, among their various uses, \nto use them in:\n\nmaking requests (\"..., please.\")\nforming a sentence that describes two events or activities. (\"I did this and did that.\")\ngiving and asking for permission (\"You may ... /May I ... ?\")\nstating that something is forbidden (\"You must not ...\")\n\nThe conjugation paradigm of te-forms is complex, as we need to learn separate rules for ru-, u-, and irregular \nverbs. Furthermore, the rule for u-verbs is divided into five sub-rules.\n\nConjugation Table:\nRu-verbs\nる → て　　食べる → 食べて\n\nU-verbs with final\nう            会う → 会って\nつ  → って　　 待つ → 待って\nる¹　　　　　　とる → とって\n　　　　　　　　\nむ            読む → 読んで\nぶ  → んで　　 遊ぶ → 遊んで\nぬ　　　　　　 死ぬ → 死んで\n　　　　　　　　\nく → いて　　書く → 書いて\n\n(Exception) 行く → 行って\n\nぐ → いで　　泳ぐ → 泳いで\n\nす → して　　話す → 話して\n\nIrregular verbs\nする → して\nくる → きて\n\n¹ As we discussed in Grammar 1 of Lesson 3, some verbs that end with the hiragana る are ru-verbs and \nsome others are u-verbs. Review the discussion on how the vowel before the final る syllable determines \nwhich verb belongs to which class. In this book we learn the following u-verbs that end with iru or eru: \n帰る (return), 入る (enter), 知る (know), いる (need), 切る (cut), and 走る (run).\n\nNote that te-forms and stems (the forms you find before ます) of an u-verb are totally different from each other, \nwhile they look similar in ru-verbs (食べて and 食べます). Be careful not to come up with improper forms such \nas ×会いて (compare 会います) and ×読みて (compare 読みます) in u-verbs. You may want to memorize each verb as a set, \nas in 書く—書きます—書いて. Refer to the verb conjugation table at the end of this volume (p. 382).\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 6,
+  "sublesson": 2,
+  "page": [151],
+  "topic": "〜てください",
+  "chunk_id": 34,
+  "text": "\nUse a verbal te-form together with ください to make a polite request to another person \"please do ... for me\"²\n\n教科書を読んでください。\nkyoukasho wo yonde kudasai.\nPlease read the textbook.\n\nすみません。ちょっと教えてください。\nsumimasen. chotto oshiete kudasai.\nExcuse me. Please teach me a little. (= Tell me, I need your advice.)\n\n² If you are talking to a very close friend or a member of your family, a te-form, by itself, can be used \nas a request.\n\n窓を開けて。\nmado wo akete.\nOpen the window, will you?\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 6,
+  "sublesson": 3,
+  "page": [151,152],
+  "topic": "Describing Two Activities",
+  "chunk_id": 35,
+  "text": "\nYou can use a te-form to combine two or more verbs, as in describing a sequence of events or actions \n(\"I did this and then I did that\"). In other words, the te-form does the work of \"and\" with verbs. \n(Note that two verbs cannot be joined by と, which only connects nouns.) The tense of the verb at the end \nof each sentence determines when these events take place.\n\n図書館に行って、本を借ります。\ntoshokan ni itte, hon wo karimasu.\nI will go to the library and check out some books.\n\n今日は、六時に起きて、勉強しました。\nkyou wa, rokuji ni okite, benkyou shimashita.\nToday I got up at six and studied.\n\n食堂に行って、昼ご飯を食べましょう。\nshokudou ni itte, hirugohan wo tabemashou.\nLet's go to the cafeteria and have lunch.\n\nThe te-form of a verb can also be used to connect a verb more \"loosely\" with the rest of a sentence. \nIn the first example below, the verb in the te-form describes the manner in which the action described \nby the second verb is performed. In the second example, the te-form describes the situation for which the \napology is made.\n\nバスに乗って、会社に行きます。  \n*I go to work by bus. (I take a bus to work.)*\n\n教科書を忘れて、すみません。  \n*I am sorry for not bringing in the textbook. (I left the book at home, and I am sorry.)*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 6,
+  "sublesson": 4,
+  "page": [152],
+  "topic": "～てもいいです",
+  "chunk_id": 36,
+  "text": "\nA verbal te-form plus もいいです means \"you may do . . . ,\" which describes an activity that is permitted.³ \nTo ask for permission, you can turn it into a question sentence, ～てもいいですか. If somebody asks for \npermission and if you want to grant it, you can either repeat the whole verb te-form plus もいいです \nconstruction, or just say いいです. て needs to be a part of a verb and cannot stand alone. So you cannot just \nsay ×てもいいです or ×もいいです. The polite and graceful way to grant permission is to say どうぞ.\n\n教科書を見てもいいですよ。  \n*You may use the textbook.*\n\nA：トイレに行ってもいいですか。  \n*May I go to the bathroom?*\n\nB：はい、いいですよ。／どうぞ。  \n*You may./Please.*\n\n³ In casual speech, you can drop も and say 食べていいです as well as 食べてもいいです. In contrast, は in the \nconstruction てはいけません, which is discussed in the next section, cannot be dropped.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 6,
+  "sublesson": 5,
+  "page": [152],
+  "topic": "～てはいけません",
+  "chunk_id": 37,
+  "text": "\nA verbal te-form plus はいけません means \"you must not do . . . ,\" a strong prohibition statement, \nas in rules and regulations.\n\nここで写真を撮ってはいけません。  \n*You must not take pictures here.*\n\nIf somebody asks you for permission but you want to deny it, you can use てはいけません, but the sentence \nmay sound too harsh unless you are in a place of authority. We will learn a softer way to say \"please don't\" \nin Lesson 8.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 6,
+  "sublesson": 6,
+  "page": [153],
+  "topic": "～から",
+  "chunk_id": 38,
+  "text": "\nA sentence that ends with から (because) explains the reason or the cause of a situation, a proposal, and so forth.\n\n(situation)。(explanation) から。⁴\n\n私は今晩勉強します。あしたテストがありますから。  \n*I will study this evening. (Because) we will have an exam tomorrow.*\n\nバスに乗りましょう。タクシーは高いですから。  \n*Let's go by bus. (Because) taxis are expensive.*\n\n⁴ The explanation clause may also precede the situation clause. Thus the first example above can also be \nparaphrased as:  \nあしたテストがありますから、私は今晩勉強します。  \n*We will discuss this further in Lesson 9.*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 6,
+  "sublesson": 7,
+  "page": [153],
+  "topic": "～ましょうか (Offering Assistance)",
+  "chunk_id": 39,
+  "text": "\nIn Lesson 5 we learned ましょうか meaning \"Let's . . . .\" ましょうか is also used in the sense of \"let me \ndo . . . ,\" in offering assistance. If you see somebody having a hard time opening the lid of a bottle, \nfor example, you can offer help by saying:\n\n（私が）やりましょうか。  \n*I'll do it.*\n\nOr to a person who is carrying a heavy bag:\n\n荷物を持ちましょうか。  \n*Shall I carry your bag?*\n"
+}
+
+
+
+
+
+
+
+,
+{
+  "book": "Genki 1",
+  "lesson": 7,
+  "sublesson": 1,
+  "page": [170,171],
+  "topic": "〜ている (Action in Progress)",
+  "chunk_id": 40,
+  "text": "\nIn this lesson, we will learn to use verb te-forms together with the helping verb いる. To understand what such \na sentence means, we will need to understand the semantics of Japanese verbs. Japanese verbs can be classified \ninto the following three types.\n\n(1) verbs that describe *activities* that last for some time (e.g., 食べる, 読む)\n(2) verbs that describe *changes* that are more or less instantaneous (e.g., 死ぬ, 起きる)¹\n(3) verbs that describe continuous *states* (e.g., ある, いる)\n\nYou can use verbs in the first group, such as 食べる and 読む, in their te-form with the helping verb いる to \ndescribe *actions in progress*.² We will discuss the verbs of the second type in the following section. The \nthird type which describes states does not go with ている.\n\n**Activity verbs ている = action in progress**\n\nソラさんは今勉強しています。*Sora is studying right now.*\n\nたけしさんは英語の本を読んでいます。*Takeshi is reading a book in English.*\n\n今、何をしていますか。*What are you doing right now?*\n\nYou can also use a 〜ています sentence to describe what a person does by occupation or by habit. The first \nexample below therefore has two possible interpretations: you are actually teaching English right at this \nmoment, or you are an English-language teacher (but are not necessarily in class right now.) The second \nexample means that Mary is in the habit of studying Japanese (but of course she does not spend 24 hours a \nday doing so).\n\n---\n\n¹ Among the verbs we have learned so far, verbs such as 起きる, 行く, 帰る, 来る, わかる, 出かける, 借りる, \n降りる, 持ってくる, 連れてくる, 結婚する, 泳ぐ, やせる, 着る are change verbs. In most cases you can determine \nwhether a verb is in the activity class or a change class by checking if the verb allows for a phrase describing \nduration, such as 一時間. Compare, for example,\n○私はその一時間本を読みました。*I read a book for an hour yesterday.*\n×私は一時間死にました。*(Ungrammatical, much as the English translation \"I died for an hour,\" which is also odd.)*\n読む thus is an activity verb and 死ぬ is a change verb.\n\n² The distinction between いる and ある that we learned in Lesson 4 does not apply to this helping verb 〜ている: \nyou can use 〜ている both for living things and for inanimate objects.\n\n私は英語を教えています。\n*I teach English. / I am teaching English (right now).*\n\nメアリーさんは毎日日本語を勉強しています。\n*Mary studies Japanese every day.*\n\nThe helping verb いる conjugates as a ru-verb. Thus we have long forms as in the following.\n\n**e.g. 食べている**\n\n|  | affirmative | negative |\n|---|---|---|\n| [Present] | 食べています | 食べていません |\n|  | *He is eating.* | *He is not eating.* |\n| [Past] | 食べていました | 食べていませんでした |\n|  | *He was eating.* | *He was not eating.* |\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 7,
+  "sublesson": 2,
+  "page": [171,172],
+  "topic": "〜ている (Result of a Change)",
+  "chunk_id": 41,
+  "text": "\nVerbs in the second group discussed in the previous section describe changes from one state to another. \nIf you get married, or 結婚する, for example, your status changes from being single to being married. \nWith these verbs, ている describes *the result of a change*.³ A change took place in the past, and its \nsignificance still remains until the present moment.\n\n**Change verbs ている = result of a change**\n\n山下先生は結婚しています。\n*Professor Yamashita is married.*⁴\n*(= state resulting from getting married)*\n\nゆいさんは窓の近くに座っています。\n*Yui is seated near the window.*\n*(= state resulting from seating herself there)*\n\nHere are some more examples of verbs that are commonly used in the 〜ている framework.\n\n持つ → 持っている ソラさんはお金をたくさん持っています。\n*(has)* *Sora has a lot of money.*\n\n---\n\n³ In Lesson 9, we will observe that this *result of a change* reading is actually not restricted to \nchange verbs but can be associated with activity verbs in certain contexts.\n\n⁴ Note that the sentence does not mean Professor Yamashita is *getting married*.\n\n知る → 知っている⁵ 山下先生は母を知っています。\n*(knows)* *Professor Yamashita knows my mother.*\n\n太る → 太っている トムさんはちょっと太っています。\n*(is overweight)* *Tom is a little overweight.*\n\nやせる → やせている 私の弟はとてもやせています。\n*(is thin)* *My younger brother is very thin.*\n\n着る → 着ている メアリーさんはTシャツを着ています。\n*(wears)* *Mary is wearing/wears a T-shirt.*\n\n起きる → 起きている お父さんは起きています。\n*(is awake)* *Dad is up and awake.*\n\n住む → 住んでいる 家族は東京に住んでいます。\n*(lives in)* *My family lives in Tokyo.*\n\nNote that verbs like 行く and 来る belong to the change class. Thus 行っている and 来ている indicate the \nresult of prior movements, *not* movements that are currently in progress. You may want to be careful \nwith what the following sentences mean.\n\n中国に行っています。*Somebody has gone to/is in China.* (Not: *She is going to China.*)\n\nうちに来ています。*Somebody has come over to visit.* (Not: *Somebody is coming over.*)\n\nYou can simply use the present tense and say メアリーさんは来ます, for example, if you want to say Mary is \ncoming, because the present tense in Japanese refers both to the present and to the future.\n\n⁵ The negation of 知っています is 知りません, without the ている formation.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 7,
+  "sublesson": 3,
+  "page": [172,173],
+  "topic": "メアリーさんは髪が長いです",
+  "chunk_id": 42,
+  "text": "\nTo describe somebody who has long hair, one could say:\n\nトムさんの髪は長いです。*Tom's hair is long.*\n\nBut in fact it would be far more natural in Japanese to say:\n\nトムさんは髪が長いです。*Tom has long hair.* (= *As for Tom, he has long hair.*)\n\nThis applies not only to discussion of the length of one's hair, but to descriptions of a person's physical \nattributes in general. See the Parts of the Body section at the end of this lesson for the name of body parts.\n\nAさんは | 目 | が | 大きい |\n      | 耳 |   | 小さい | *Person A has a body part which is...*\n      | 手 |   | かわいい |\n      | 足 |   | ⋮        |\n      | ⋮ |     |         |\n\nIn idiomatic collocations, we also have:\n\n背が高い *is tall*    背が低い *is short*    頭がいい *is bright/smart*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 7,
+  "sublesson": 4,
+  "page": [173],
+  "topic": "Adjective/Noun Te-forms for Joining Sentences",
+  "chunk_id": 43,
+  "text": "\nIn the last lesson, we discussed the use of verbal te-forms to join sentences. い- and な-adjectives \nand です after nouns also have te-forms, which can be used to combine two elements to form longer sentences.\n\nThe te-form of an い-adjective is formed by substituting て for the final い. The te-form of a な-adjective \nand a noun＋です sequence is formed by adding で to the base or the noun.\n\n**い-adjectives:**\n- (irregular) 安い → 安くて\n- いい → よくて\n\n**な-adjectives:**\n- 元気(な) → 元気で\n\n**noun＋です:**  \n- 日本人です → 日本人で\n\nあの店の食べ物は安くて、おいしいです。\n*The food at that restaurant is inexpensive and delicious.*\n\nホテルはきれいで、よかったです。\n*The hotel was clean, and we were happy.*\n\n山下先生は日本人で、五十歳ぐらいです。\n*Professor Yamashita is a Japanese and he is about fifty years old.*\n\nAs with the te-form conjunction of verbs in Lesson 6, you can use the te-form of conjunction of adjectives in \nsentences describing the past and the present. The last adjective determines the overall tense of each of these \nsentences.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 7,
+  "sublesson": 5,
+  "page": [174],
+  "topic": "Verb Stem + に行く",
+  "chunk_id": 44,
+  "text": "\nIf a person moves to another place in order to do something, we can describe their movement and its purpose this way:\n\n**destination of movement { に/へ } { the purpose of movement/verb stem } に { 行く/来る/帰る }**\n                                     \n\nThe purpose of movement is a phrase consisting of a verb, its object, and so forth.⁶ Verbs describing the purpose \nof a movement must be in their stem forms. Stems are the part you get by removing ます from the verbs' present \ntense long forms.\n\n**stems:** 食べる → 食べ(ます) 読む → 読み(ます) etc.\n\nデパートに かばんを買い に行きました。\n*I went to a department store to buy a bag.*\n\nメアリーさんは日本に 日本語を勉強し に来ました。\n*Mary has come to Japan to study Japanese.*\n \n² The distinction between いる and ある that we learned in Lesson 4 does not apply to this helping verb 〜ている: \nyou can use 〜ている both for living things and for inanimate objects.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 7,
+  "sublesson": 6,
+  "page": [174,175],
+  "topic": " Counting People",
+  "chunk_id": 45,
+  "text": "\nThe \"counter\" for people is 人, but \"one person\" and \"two people\" are irregular: 一人 and 二人.\n\n1 ひとり (一人)\n2 ふたり (二人)\n3 さんにん (三人)\n4 よにん (四人)\n5 ごにん (五人)\n6 ろくにん (六人)\n7 しちにん/ななにん (七人)\n8 はちにん (八人)\n9 きゅうにん (九人)\n10 じゅうにん (十人)\n\nTo count people in a class, for example, you can add 〜人 after the noun and the particle が, and say:\n\n**person が X人 います**\n\n私のクラスに(は)インドネシア人の学生が一人います。\n*There is one Indonesian student in our class.*\n\nThe place expressions are often followed by には instead of に in this type of sentence.\n"
+}
+
+
+
+
+
+,
+{
+  "book": "Genki 1",
+  "lesson": 8,
+  "sublesson": 1,
+  "page": [190,191],
+  "topic": "Short Forms",
+  "chunk_id": 46,
+  "text": "\nIn this and the next lesson, we will learn a new paradigm of conjugation, which we will call \"short forms.\" \nCompare the long forms, which we already know, and the short forms:\nPresent, affirmative\nlong forms | short forms\n\nverbs: 読みます | 読む (= Dictionary form)\nい-adjectives: かわいいです | かわいい (Drop です)\nな-adjectives: 静かです | 静かだ (Replace です with だ)\nnoun + です: 学生です | 学生だ (Replace です with だ)\n\nPresent, negative\nlong forms | short forms\n\nverbs: 読みません | 読まない → More on this below.\nい-adjectives: かわいくないです | かわいくない (Drop です)\n(exception) いい: よくないです | よくない\nな-adjectives: 静かじゃないです | 静かじゃない (Drop です)\nnoun + です: 学生じゃないです | 学生じゃない (Drop です)\n\nLet's look at the verbs in the negative in detail. る-, u-, and irregular verbs conjugate differently.\nVerb short forms (present, negative)\n\nる-verbs: Drop the final る and add ない.\n食べる → 食べない\nu-verbs: Drop the last -u and add -anai. Verbs that have う, however, get わ instead of あ.\n書く → 書かない 会う → 会わない\nirregular verbs: The vowels change.\nする → しない くる → こない\nexception: The verb ある is totally replaced by the adjective ない.\nある → ない\n\n¹ Various names have been given to this paradigm. They include \"plain forms,\" \"informal forms,\" and \n\"direct style.\" Long forms, on the other hand, are often called \"polite forms,\" \"formal forms,\" and \"distal style.\"\n\nThink of the u-verb conjugation as moving up and down in the hiragana chart. Let's take 書く for example. \nThe dictionary form 書く is the combination of the verb base in the kanji 書 and the bottom hiragana of that row. く. \n書きます is the combination of 書, き, and the ます ending on the right. 書かない is 書, か², and ない.\n\n+-------------------------+------+------+------+------+------+------+------+------+------+\n| Form                    | 書   | 話   | 待   | 死   | 読   | 作   | 泳   | 呼   | 買   |\n+-------------------------+------+------+------+------+------+------+------+------+------+\n| Negative (~ない)         | か   | さ   | た   | な   | ま   | ら   | が   | ば   | わ   |\n| Stem (~ます)             | き   | し   | ち   | に   | み   | り   | ぎ   | び   | い   |\n| Affirmative (dictionary) | く   | す   | つ   | ぬ   | む   | る   | ぐ   | ぶ   | う   |\n+-------------------------+------+------+------+------+------+------+------+------+------+\n\n² Note that we have 買わない, with わ instead of あ, because the bases of u-verbs ending with the hiragana う actually \nend with the consonant w, which remains silent in 買う and 買います, but resurfaces in 買わない.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 8,
+  "sublesson": 2,
+  "page": [191,192],
+  "topic": "Short Forms in Informal Speech",
+  "chunk_id": 47,
+  "text": "\nClose friends or family members speak with each other using short forms at the end of sentences as a sign of \nintimacy. The use of long forms, in contrast, tends to imply the speaker's intention to \"keep a proper distance\" \nfrom the listener. Short forms, then, are like talking on a first-name basis, while long forms are like using \"Mr.\" \nand \"Ms.\"\n\n(Between friends) \nA：今日、学校に行く？ (Short form)\nAre you going to school today?\nB：ううん、行かない。\nNo, I'm not.\n\n(To a stranger)   \nA：すみません、この電車は新宿に行きますか。(Long form)\nExcuse me, does this train go to Shinjuku?\nB：いいえ、行きません よ。\nNo, it doesn't.\n\nIt may not be easy to decide when it is appropriate to switch to short forms. First of all, Japanese speakers are \noften very conscious of seniority. A year's difference in age may in many cases totally preclude the possibility of \nestablishing a truly \"equal\" relationship. Second, license to use short forms is not mutual; senior partners may feel \nperfectly justified in using short forms while expecting their junior partners to continue addressing them with long \nforms. Thus, if somebody who is older, say, your Japanese language professor, talks to you using short forms, they \nwould be greatly surprised if you were to do the same.\n\nProfessor: この漢字、わかる？³        Do you know this kanji?\nStudent:   はい、わかります。          Yes, I do.\n(×うん、わかる。)\n(Long form preferred, because you are talking to somebody who is older.)\n\nIn the casual conversations, you drop the question particle か, and use the rising intonation to ask a question.⁴\n\nどんな音楽を聞く？      (×どんな音楽を聞くか？)\nWhat kind of music do you listen to?\n\nAlso, in the spoken language, you usually drop the sentence-final だ after a な-adjective or a noun. \n(You keep the last だ in the written language, however.)\nA：元気？                Are you good?\nB：うん、元気。          Yes, I am.\n(Rather than: 元気だ。)\n\nYou keep だ when you follow it up with ね or よ.\n\nメアリーさんは二年生だよ。        Mary is a sophomore.\n(Rather than: メアリーさんは二年生だ。)\n\nはい and いいえ are usually replaced by the less formal うん and ううん.\n\nA：よくスポーツをする？          Do you often play sports?\nB：うん、する。／ううん、しない。  Yes, I do. / No, I don't.\n\n³ Particles are more often dropped in casual speech than in careful, polite speech or writing.\n⁴ We usually write the question mark at the end of such a sentence, because we cannot rely on the intonation.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 8,
+  "sublesson": 3,
+  "page": [192,193],
+  "topic": "Short Forms in Quoted Speech: ～と思います",
+  "chunk_id": 48,
+  "text": "\nTo describe what you think, you use the short form, plus と思います (I think that...). と is a \nquotation particle, which does the job of both the English word \"that\" in indirect quotation and of \nquotation marks (\" \") in direct quotation.\n\n(私は)たけしさんはメアリーさんが好きだと思います。\nI think Takeshi likes Mary.\n\nTo say that you don't think something is the case, it is more common in Japanese to say it like \n～ないと思います (I think that something is not the case) than ～と思いません (I don't think). Therefore:\n\n(私は)メアリーさんはたけしさんが好きじゃないと思います。\nI don't think Mary likes Takeshi. (= I think Mary doesn't like Takeshi.)\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 8,
+  "sublesson": 4,
+  "page": [193],
+  "topic": "Short Forms in Quoted Speech: ～と言っていました",
+  "chunk_id": 49,
+  "text": "\nTo quote a person's utterances, you use the short form plus と言っていました⁵ (They said \"...\"). \nNote that the present tense in Yasmin's original utterance is preserved in Mary's report.\n\nヤスミンさんは、あした試験があると言っていました。\nYasmin said that there would be an exam tomorrow.\n\n山下先生は結婚していないと言っていました。\nProfessor Yamashita said that he is not married.\n\n\n⁵ The action in progress expression in と言っていました indicates that you were there when somebody \nsaid that, as in \"I heard them saying...\" If you were not there when the utterance was made, as in \n\"(the long dead) Napoleon said...,\" と言いました sounds more appropriate.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 8,
+  "sublesson": 5,
+  "page": [194],
+  "topic": "～ないでください",
+  "chunk_id": 50,
+  "text": "\nTo request that someone refrain from doing something, one can use a negative verbal short form plus でください。\n\nここで写真を撮らないでください。\nPlease don't take pictures here.\n\n**verb (short, negative) + でください     Please don't...**\n\nないでください often is a better answer than ではいけません to a でもいいですか question.\n\nA：この部屋に入ってもいいですか。\n   May I enter this room?\n\nB：入らないでください。    Compare: 入ってはいけません。\n   Please don't.                    (Implies that you are in a position of authority.)\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 8,
+  "sublesson": 6,
+  "page": [194,195],
+  "topic": "Verb のが好きです/上手です",
+  "chunk_id": 51,
+  "text": "\nA verb short form + の turns a verb into a noun describing an action. Thus in combination with \nが好きです/きらいです, for example, you can describe what you like/dislike doing.\n\n（私は）日本語を勉強するのが好きです。\nI like studying the Japanese language.\n\n（私は）部屋を掃除するのがきらいです。\nI don't like cleaning my room.\n\n\"To be good/bad at doing something\" is ～が上手です (is good at...) and ～が下手です (is bad at...).*\n\nロバートさんは料理を作るのが上手です。\nRobert is good at cooking meals.\n\nたけしさんは英語を話すのが下手です。\nTakeshi is not a good speaker of English.\n\n*To describe one's skills or lack thereof, we also often use a different set of expressions, namely, \n～がとくいです (is comfortable with...) and ～がにがてです (is uncomfortable with...).\n\n私は日本語を話すのがとくいです。    I am good at/comfortable with speaking Japanese.\n\n| person は | activity (verb) のが | 好き/きらい/上手/下手 | です。 | likes doing.../doesn't like \ndoing.../is good at doing.../is poor at doing... |\n\nIt is a common mistake to use the te-form of a verb in such contexts, misled by the association \nbetween ～ている and the verb in the -ing form in English.\n\n× たけしさんは英語を話してが下手です。\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 8,
+  "sublesson": 7,
+  "page": [195,196],
+  "topic": "The Subject Particle が",
+  "chunk_id": 52,
+  "text": "\nConsider what ロバートさんは沖縄に行きました means. This sentence of course is about Robert and describes\nwhat he did. It is likely to be uttered when the topic of Robert has already been breached. Grammatically \nspeaking, (1) the noun ロバート stands as the subject in relation to the verb 行く (he was the person who \nperformed the going), and (2) the noun is, per the function of the particle は, presented as the topic of \nthe sentence (as for Robert, he went to Okinawa).\n\nWhat if we both know that somebody went to Okinawa recently, and I know that it was Robert, but you don't? \nI will say:\n\nロバートさんが沖縄に行きました。      ROBERT went to Okinawa.\n\nThis sentence means that Robert went to Okinawa, which in English would be uttered with an extra emphasis \non the name Robert, which is the new piece of information in this sentence.\n\nQuestion words like だれ and 何 in the subject of a sentence are followed by が rather than は.\n\nだれが沖縄に行きましたか。          \nWho went to Okinawa?\n\nCompare: × だれは沖縄に行きましたか。\n\nAs we learned in Lesson 2, a question word that is the subject of a sentence is never followed by the \nparticle は, but always by the particle が (p. 61). As we have seen, a noun that will provide the answer \nto such a question is also followed by the particle が.\n\nA：どのクラスがおもしろいですか。\n   Which class is (the most) interesting?\n\nB：日本語のクラスがおもしろいです。\n   Japanese class is.\n\nA：（このクラスで）だれがめがねをかけていますか。\n*Who wears glasses (in this class)?*\n\nB：山下先生がめがねをかけています。\n*Professor Yamashita does.*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 8,
+  "sublesson": 8,
+  "page": [196],
+  "topic": "何か and 何も",
+  "chunk_id": 53,
+  "text": "\nThe word for \"something\" is 何か, and the word for \"anything\" in negative sentences is 何も.\n\n**\"Some\" and \"any\" in**\n- positive statements: 何か *something*\n- questions: 何か *anything?*\n- negative statements: 何も + negative *not... anything*\n\nWhen 何か and 何も are used in places where the particles は, が, and を are expected, they are often used \non their own, without the help of particles. We will learn in Lesson 10 what to do in cases where particles \nother than these are expected.\n\n猫が何か持ってきました。\n*The cat has brought something.*\n\n猫は何か食べましたか。\n*Did the cat eat anything?*\n\nいいえ、猫は何も食べませんでした。\n*No, the cat did not eat anything.*\n"
+}
+
+
+
+
+
+
+
+
+
+,
+{
+  "book": "Genki 1",
+  "lesson": 9,
+  "sublesson": 1,
+  "page": [214],
+  "topic": "Past Tense Short Forms",
+  "chunk_id": 54,
+  "text": "\nHere we will learn the past tense paradigm of short forms. With four parts of speech and two polarities, \nthere are eight forms in the chart, \nbut you need to learn only three rules.\n\n(1) Verbs: Replace the te-form endings て and で with た and だ.\n(2) い-adjectives: Replace the last い with かった. You may also think of this in terms of \"dropping てす\" \nfrom the long form.\n(3) な-adjectives and nouns: Replace the long form でした ending with だった.\nNegation: ない conjugates as an い-adjective. Therefore, for all categories, you can replace the last ない \nwith なかった.\n\n### Past, affirmative\n- verbs: 食べた / 食べて, 読んだ / 読んで\n- い-adjectives: かわいかった / かわいい・かわいかったです\n- な-adjectives: 静かだった / 静かでした\n- noun + です: 学生だった / 学生でした\n\n### Past, negative\n- verbs: 読まなかった / 読まない\n- い-adjectives: かわいくなかった / かわいくない\n- な-adjectives: 静かじゃなかった / 静かじゃない\n- noun + です: 学生じゃなかった / 学生じゃない\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 9,
+  "sublesson": 2,
+  "page": [214,215],
+  "topic": "Past Tense Short Forms in Informal Speech",
+  "chunk_id": 55,
+  "text": "\nShort form predicates in the past tense can be used in the same way as the present tense forms, which we \ndiscussed in Lesson 8. Note that the question particle か is dropped in informal speech.\n\nA：けさ、朝ご飯を食べた？\nB：うん、食べた。/ ううん、食べなかった。\n\n*Did you have breakfast this morning?*\n*Yes, I did. / No, I didn't.*\n\nUnlike だ in the present tense, だった is not dropped in informal speech.\n\nA：先週は忙しかった？\nB：ううん、忙しくなかった。ひまだった。\n\n*Were you busy last week?*\n*No, I wasn't. I had free time.*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 9,
+  "sublesson": 3,
+  "page": [215],
+  "topic": "Past Tense Short Forms in Quoted Speech: ～と思います",
+  "chunk_id": 56,
+  "text": "\nAs in the present tense, you use the short form in the past tense with ～と思います (I think) to report what \nyou think took place in the past.\n\nA：あ、私のとんかつがない！\nB：トムさんが食べたと思います。\n\n*Hey, my pork cutlet is gone!*\n*I think Tom ate it.*\n\n去年の冬はあまり寒くなかったと思います。\n*I don't think last winter was very cold. (= I think last winter was not very cold.)*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 9,
+  "sublesson": 4,
+  "page": [215,216],
+  "topic": "Past Tense Short Forms in Quoted Speech: ～と言っていました",
+  "chunk_id": 57,
+  "text": "\nIf you heard somebody utter a sentence in the past tense, you can report it with the short form past tense \nwith ～と言っていました.\n\nヤスミンさんは、昼ご飯を食べなかったと言っていました。\n*Yasmin said that she didn't have lunch.*\n\nNote that Japanese does not have the \"sequence of tense\" rule, and the tense of the original utterance is \npreserved when it is reported. If you are reporting somebody's utterance in which the present tense is used, \nyou must also use the present tense inside the quote. Thus, if your friend Yasmin said 今、晩ご飯を食べています, \nusing the present tense, your report will have 晩ご飯を食べている in the present tense, rather than 晩ご飯を食べていた \nin the past tense.\n\nヤスミンさんは晩ご飯を食べていると言っていました。\n*Yasmin said that she was having dinner.*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 9,
+  "sublesson": 5,
+  "page": [216],
+  "topic": "Qualifying Nouns with Verbs and Adjectives",
+  "chunk_id": 58,
+  "text": "\nThe following table shows various forms of noun modification. The phrases in the left qualify the noun 人 (person) \nto their right. Example 1 is a straightforward adjectival modification. Example 2 contains a phrase describing a \nperson's attribute (Lesson 7), and Example 3 has a な-adjective with a grammatical object (Lesson 5). Example 4 has \na verb in the short form (Lesson 8).\n\n| e.g. 1. | おもしろい | 人 | *a person who is interesting* |\n| e.g. 2. | 髪が長い | 人 | *a person who has long hair* |\n| e.g. 3. | 猫が好きな | 人 | *a person who likes cats* |\n| e.g. 4. | めがねをかけている | 人 | *a person who wears glasses* |\n\nadjectives and verbs used as qualifiers ↑ noun\n\nHere we focus on a verb + ている, which is very frequently used as noun modifiers, describing people on the \nbasis of their current actions and states.¹\n\nA：ゆいさんはどの人ですか。\nB：あそこで本を読んでいる人です。\n\n*Which one is Yui?*\n*Yui is the one who is reading a book over there.*\n\nあそこで写真を撮っている学生はロバートさんです。\n*The student taking pictures over there is Robert.*\n\n¹ Short forms other than ている can also be used for noun modification, as in 毎日運動する人 (a person who \nexercises every day) and たばこを吸わない人 (a person who does not smoke). We will explore a wider range of \nverb forms used in noun modification in Lesson 15.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 9,
+  "sublesson": 6,
+  "page": [217],
+  "topic": "もう～ました and まだ～ていません",
+  "chunk_id": 59,
+  "text": "\nYou can use the affirmative past tense of a verb ～ました both (i) to talk about an event that happened at a \ncertain time in the past (きのう yesterday, for example), just like *did* in English, and also (ii) to talk \nabout a past event that still has an effect at present, just like *have done* in English (used with adverbs \nlike もう *already*, for example).\n\n(i) きのう宿題をしました。\n*I did the homework yesterday.*\n\n(ii) もう宿題をしました。\n*I have already done the homework.*\n\nWith the negative, the past is used only to talk about a finished time period like きのう, but ていません is \nused if your intention is to talk about how things stand now (\"not yet\").\n\n(i) きのう宿題をしませんでした。\n*I did not do the homework yesterday.*\n\n(ii) まだ宿題をしていません。\n*I have not done the homework yet.*\n\n**もう～ました** *have already . . .*\n**まだ～ていません** *have not . . . yet*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 9,
+  "sublesson": 7,
+  "page": [217,218],
+  "topic": "Explanation から, Situation",
+  "chunk_id": 60,
+  "text": "\nWe learned in Lesson 6 that から added to a sentence means \"because.\"\n\n朝ご飯を食べませんでした。忙しかったですから。\n*I didn't have breakfast. (Because) I was busy.*\n\nYou can put these two sentences into one, by moving the \"explanation + から\" sequence to the beginning of a \nsentence for which the explanation is offered. The resulting order of elements resembles that of a \"therefore\" \nsentence more closely than that of a \"because\" sentence in English.\n\n| explanation | から、| situation |。\n= | situation |, because | explanation |。\n= | explanation |; therefore, | situation |。\n\nあした試験があるから、今晩勉強します。\n*I will study this evening, because we will have an exam tomorrow.*\n*(= We will have an exam tomorrow; therefore, I will study this evening.)*\n\n寒かったから、出かけませんでした。\n*We didn't go out, because it was cold.*\n*(= It was cold; therefore, we didn't go out.)*\n\nBefore the conjunction から, you find both the long and short forms. Thus the から clauses in the above examples \ncan be rewritten as あした試験があります から and 寒かったです から.² The long form before から is more polite, and \nis frequently found in request and suggestion sentences.\n\nかぶきのチケットがありますから、一緒に見に行きましょう。\n*Let's go to see Kabuki. I have tickets.*\n\n² The long form before から is inappropriate when the entire sentence ends in a short form, however. Thus it \nis inappropriate to say: ×寒かったですから、出かけなかった。\n\n"
+}
+
+
+
+
+
+
+
+
+
+
+,
+{
+  "book": "Genki 1",
+  "lesson": 10,
+  "sublesson": 1,
+  "page": [234],
+  "topic": "Comparison between Two Items",
+  "chunk_id": 61,
+  "text": "\nIn Japanese, adjectives do not change form in comparative sentences; there is no alteration as in \n'great/greater.' You can express the idea of comparison by framing a sentence like:\n\n**A のほうが B より¹ (property)。= A is more (property) than B.**\n\n中国のほうが日本より大きいです。\n*China is larger than Japan.*\n\nIf you want to ask a question comparing two items, you can say:\n\n**A と B と どちらのほう / どちらのほう² が (property)。**\n**= Between A and B, which is more (property)?**\n\nSo a typical exchange looks like this:\n\nA：日本とカナダとどちらのほうが寒いですか。\n    *Which is colder, Japan or Canada?*\n\nB：カナダのほうが寒いです。\n    *Canada is colder.*\n\n¹ In real life, the phrases A のほう が and B より often appear in the reverse order, making it very \neasy to be misled into believing the opposite of what is actually said. Don't rely on the word order, \ntherefore, to decide which item is claimed to be superior. Listen carefully for the words のほう が and より.\n\n² In place of どちらのほう and どっちのほう, you can also use どちら and どっち. Any one of these can be \nused in question sentences seeking comparisons between two items. どっち and どっちのほう are slightly \nmore colloquial than どちら and どちらのほう.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 10,
+  "sublesson": 2,
+  "page": [234,235],
+  "topic": "Comparison among Three or More Items",
+  "chunk_id": 62,
+  "text": "\n**A と B と C**\n**Category X** の中で A がいちばん (property)。\n**= A is the most (property) (among (the group of items)).**\n\nA：カナダとフランスと日本の中で、どこがいちばん寒いですか。\n    *Among Canada, France, and Japan, which country has the coldest climate?*\n\nB：カナダがいちばん寒いと思います。\n    *Canada is the coldest, I think.*\n\nA：季節の中でいつがいちばん好きですか。\n    *What season do you like best?*\n\nB：秋がいちばん好きです。\n    *I like fall the most.*\n\nNote that the words のほう and どっち are not used in statements of comparison among three or more items. \nNormal question words like だれ, どれ, 何, いつ, and どこ are used instead.³\n\n³ The tendency is to use どれ when a list of items is presented, and to use 何 when a group is \nreferred to collectively. Compare:\nりんごとみかんとさくらんぼの中で、どれがいちばん好きですか。\n*Which do you like best, apples, tangerines, or cherries?*\nくだもの の中で、何がいちばん好きですか。\n*What fruit do you like best?*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 10,
+  "sublesson": 3,
+  "page": [235,236],
+  "topic": "Adjective/Noun + の",
+  "chunk_id": 63,
+  "text": "\nWhen a noun follows an adjective, and when it is clear what you are referring to, you can replace the \nnoun with the indefinite noun の, \"one,\" to avoid repetition. の mostly stands for things, not people.⁴\n\n私は黒いセーターを持っています。赤いのも持っています。（のーセーター）\n*I have a black sweater. I have a red one, too.*\n\nケーキがたくさんあります。好きなのを持っていってください。（のーケーキ）\n*We have a lot of cakes. Take the ones you like.*\n\n**い-adjective + noun → い-adjective + の**\n**な-adjective + noun → な-adjective + の**\n\n⁴ When you want to refer indefinitely to people, use 人 instead of の, as in 頭がいい人 \"smart people.\" \nThe use of の to indicate people is largely limited to sentences like あそこで歌っているのは田中さんです\n (The one who is singing over there is Tanaka.), where you describe a person with ～のは first, and \n then name that person with ～です.\n\n You can also use の in the sense of \"mine,\" \"yours,\" and so forth, referring to things owned by a \nperson, or characterized by a place name, for example.\n\nA：これはソラさんのかばんですか。\n    *Is this Sora's bag?*\n\nB：いいえ、それはメアリーさんのです。\n    *No, that is Mary's.*\n\nアメリカの車のほうが日本のより大きいです。\n*American cars are larger than Japanese ones.*\n\n**noun₁ の noun₂ → noun₁ の noun₂**\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 10,
+  "sublesson": 4,
+  "page": [236],
+  "topic": "～つもりだ",
+  "chunk_id": 64,
+  "text": "\nつもり follows verbs in the present tense short forms to describe what a person is planning to do in the \nfuture. You can also use a verb in the negative plus つもり to describe what you are planning not to do, \nor what you do not intend to do.\n\n**verb (short, present) + つもりだ    (I) intend to do...**\n\n(私は) 週末にたけしさんとテニスをするつもりです。\n*I intend to play tennis with Takeshi this weekend.*\n\n山下先生はあした大学に来ないつもりです。\n*Professor Yamashita does not intend to come to school tomorrow.*\n\nYou can also use the past tense to talk about your original intention, which did not materialize.\n\nお寺を見に行くつもりでしたが、天気がよくなかったから、行きませんでした。\n*We were planning to visit a temple, but we didn't, because the weather was not good.*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 10,
+  "sublesson": 5,
+  "page": [236,237],
+  "topic": "Adjective + なる",
+  "chunk_id": 65,
+  "text": "\nThe verb なる means \"to become,\" indicating a change. なる follows nouns and both types of adjectives.\n\n**い-adjectives: 暖かい → 暖かくなる    to become warm/warmer**\n**な-adjectives: 静か (な) → 静かになる    to become quiet/quieter**\n**nouns: 会社員 → 会社員になる    to become a company employee**\n\n日本語の勉強が楽しくなりました。\n*Studying the Japanese language is fun now (though it was like torture before).*\n\n日本語の勉強が好きになりました。\n*I have grown fond of studying the Japanese language.*\n\nWith い-adjectives, the final い is dropped and く is added, just like in their negative conjugations. \nA common mistake is to use the な-adjectives pattern になる for い-adjectives and say, for example, ×暖かいになる.\n\nWhen you use an adjective with なる, you may be describing an absolute change (e.g., \"it has become warm, \nhence it is not cold any longer\") or a relative change (e.g., \"it has become warmer, but it is still cold\"). \nIf you want to make clear that you are talking in relative terms, you can use the pattern for comparison \ntogether with なる.\n\nメアリーさんは前より日本語が上手になりました。\n*Mary has become better in Japanese than before.*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 10,
+  "sublesson": 6,
+  "page": [236],
+  "topic": "どこかに/どこにも",
+  "chunk_id": 66,
+  "text": "\nIn Lesson 8 we learned the Japanese expressions for \"something\" and \"not... anything,\" 何か and 何も. \nAs you must have noticed, these expressions are made up of the question word for things, 何, plus \nparticles か and も. Other expressions for \"some\" and \"any\" in Japanese follow this pattern. Thus,\n\n\n| something | 何か | someone | だれか | somewhere | どこか |\n| not anything | 何も | not anyone | だれも | not anywhere | どこも |\n\nAs we noted in Lesson 8, you do not need the particles は, が, or を with these words. You do need other \nparticles, such as に, へ, and で. These particles appear in the places shown with underlines above.\n\nA：どこか**へ**行きましたか。\nB：いいえ、どこ**へ**も行きませんでした。\n\n*Did you go anywhere?*\n*No, I didn't go anywhere.*\n\nA：だれか**に**会いましたか。\nB：いいえ、だれ**に**も会いませんでした。\n\n*Did you see anybody?*\n*No, I didn't see anybody.*\n\nA：何かしましたか。\nB：いいえ、何もしませんでした。\n（を is not used.)\n\n*Did you do anything?*\n*No, I didn't do anything.*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 10,
+  "sublesson": 7,
+  "page": [238],
+  "topic": "で",
+  "chunk_id": 67,
+  "text": "\nYou can use the particle で with nouns that describe the means of transportation and the instruments you use.\n\nはしで飯を食べます。\n*We eat our meals with chopsticks.*\n\n日本語で話しましょう。\n*Let's talk in Japanese.*\n\nバスで駅まで行きました。\n*I went to the station by bus.*\n\nテレビで映画を見ました。\n*I saw a movie on TV.*\n"
+}
+
+
+
+
+
+
+
+,
+{
+  "book": "Genki 1",
+  "lesson": 11,
+  "sublesson": 1,
+  "page": [258,259],
+  "topic": "~たい",
+  "chunk_id": 68,
+  "text": "\nYou can use a verb stem (the verb form that goes before ます) + たいです to describe your hope or aspiration.\n\n今度の週末は、映画を見たいです。or 映画が見たいです。\nI want to see a film this weekend.\n\nいつか中国に行きたいです。\nI want to go to China someday.\n\nverb stem + たいです     I want to do...\n\nAs you can see in the first example above, a verb that usually takes the particle を can have either the \nparticle を or が when it is \nfollowed by たい. Particles other than を remain the same, as in the second example, which has に.\n\nたい conjugates as an い-adjective. Here are examples of negative and past tense たい sentences.\n\nあの人には会いたくないです。\nI don't want to see that person.\n\nお弁当が買いたかったから、コンビニに行きました。\nI went to a convenience store, because I wanted to buy a boxed lunch.\n\nIf your wish is one you have entertained for some time, that is, if you \"have wanted to,\" you can use \nたいと思っています instead of たいです.\n\n留学したいと思っています。\nI've wanted to study abroad.\n\nYou usually do not use たいです to describe wishes held by others. Somebody else's wishes are usually \nreported in Japanese either as quotations, observations, or guesses. So if you want to say that somebody\nother than you wants to do something, you can use と言っています with たい.\n\nメアリーさんはチベットに行きたいと言っていました。\n*Mary said she wanted to go to Tibet.*\n\nTo describe your observation to the effect that somebody wants to do something, you must use a special \nverb たがっている instead of たい. If a verb takes the particle を, the derived verb たがっている will \nretain を, unlike たい, with which we had a choice between the particles が and を.\n\nメアリーさんは着物を着たがっています。\n*(It seems) Mary wants to wear a kimono.*\n\nThe verb たがっている, which comes from the dictionary form たがる, indicates \"I think that she wants to, \nbecause of the way she is behaving.\" We will have more to say about this type of sentence in Lesson 14.\n\n**I want to ... / Do you want to ... ?**\n- verb stem + たいです\n- たい conjugates as an い-adjective\n- が or を for the direct object\n\n**They want to ...**\n- verb stem + たがっています\n- たがる conjugates as an う-verb\n- を only\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 11,
+  "sublesson": 2,
+  "page": [259,260],
+  "topic": "～たり～たりする",
+  "chunk_id": 69,
+  "text": "\nYou already know that you can connect two clauses with the て-form of predicates, as in:\n\n大阪で買い物をして、晩ご飯を食べます。\n*In Osaka, I will do some shopping and eat dinner.*\n\nThis sentence, however, tends to suggest that shopping and dining are the only activities you plan to \nperform in Osaka and that those two activities will be done in that order. If you want to avoid such i\nmplications and want to mention activities or events just as examples, and in no set order, you can use a \nspecial predicate form ～たり～たりする.\n\n大阪で買い物をしたり、晩ご飯を食べたりします。\n*In Osaka, I will do such things as shopping and eating dinner.*\n\n\nverb (short, past) + り、verb (short, past) + り\n*do such things as this and that*\n\nTo get the たり form of a predicate (したり and 食べたり in the example above), you just add り to the past \ntense short form of a predicate (した and 食べた). The helping verb する at the end of the sentence indicates \nthe tense of the sentence. You can change a ～たり～たりする sentence into the past tense, or incorporate it \nin a bigger sentence, by working on the helping verb part.\n\n週末は、勉強したり、友だちと話したりしました。\n*I studied and talked with my friends, among other things, over the weekend.*\n\n踊ったり、音楽を聞いたりするのが好きです。\n*I like dancing, listening to music, and so forth.*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 11,
+  "sublesson": 3,
+  "page": [260],
+  "topic": "～ことがある",
+  "chunk_id": 70,
+  "text": "\nThe past tense short form of a verb + ことがある describes that you did something, or something happened, \nin earlier times.\n\n富士山に登ったことがあります。\n*I have had the experience of climbing Mt. Fuji.*\n\nたけしさんは授業を休んだことがありません。\n*Takeshi has never been absent from classes (in his life).*\n\n**Pattern:**\nverb (short, past, affirmative) + ことがある    *have the experience of ...*\n\nIf somebody asks you a question using ことがありますか, you can just say あります/ありません, or repeat the \nwhole verbal complex (行ったことがあります/行ったことがありません), but not ことがあります without a verb.\n\nA：ヨーロッパに行ったことがありますか。\n*Have you ever been to Europe?*\n\nB：はい、行ったことがあります。\n    はい、あります。\n    (×はい、ことがあります。)\n*Yes, I have.*\n\n**Footnote:**\n¹ We learned in Lesson 9 another way to describe past experiences or lack thereof: もうしました and \nまだ～ていません. Use まだ～ていません when you have not done something but expect to do it someday. In contrast, \nwhen you say ～たことがありません, you do not think that you will eventually do it. So, unless you are an adventurer, \nit is funny to say まだ南極に行っていません (I haven't been to Antarctica yet) but it is perfectly normal to say \n南極に行ったことがありません. On the affirmative side, もう食べました means that the result of the eating that took \nplace is still felt now, probably that is why you are not hungry right now. 食べたことがあります means that you have \nhad that experience, and the eating event may have taken place years ago.\n\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 11,
+  "sublesson": 4,
+  "page": [261],
+  "topic": " Noun A や Noun B",
+  "chunk_id": 71,
+  "text": "\nや connects two nouns, as does と. や suggests that the things referred to are proposed as examples, and \nthat you are not citing an exhaustive list in much the same way that たり in Grammar 2 in p. 259 suggests \nthat the two verbs are used as examples.\n\n**Pattern:**\nA や B    *A and B, for example*\n\n京都や奈良に行きました。\n*I went to Kyoto and Nara (for example, and may have visited other places as well).*\n"
+}
+
+
+
+
+
+
+
+
+,
+{
+  "book": "Genki 1",
+  "lesson": 12,
+  "sublesson": 1,
+  "page": [276,277],
+  "topic": "～んです",
+  "chunk_id": 72,
+  "text": "\nThere are two distinct ways to make a statement in Japanese. One way is to simply report the facts as they are \nobserved. This is the mode of speech that we have learned so far. In this lesson, we will learn a new way: the\n mode of explaining things.\n \n[Box]\nshort form (verbs/adjectives/nouns) + んです\n= explanation in terms of the verbs/adjectives/nouns\n[/Box]\n\nWhen you are late for an appointment, because the bus did not come on time, you could simply and bluntly \nreport the fact by saying バスが来ませんでした, but you can sound more apologetic if you offer that as an \nexplanation for your being late. You can say:\n\nバスが来なかったんです。 (As it happens,) the bus didn't come.\n\nAn explanation therefore connects a fact (the bus not coming), to another element in the situation under \ndiscussion (you being late for the appointment). The sentence-final expression んです serves as the link \nbetween what the sentence says and what it accounts for. Compare:\n\nあしたテストがあります。 I have an exam tomorrow. (a simple observation)\nあしたテストがあるんです。 I have an exam tomorrow. (So I can't go out tonight.)\n\nトイレに行きたいです。 I want to go to the bathroom. (declaration of one's wish)\nトイレに行きたいんです。 I want to go to the bathroom. (So tell me where it is.)\n\nんです itself is invariant and does not usually appear in the negative or the past tense forms,¹ but the \npredicate before it can be affirmative or negative, present tense or past tense.\n\n成績がよくないんです。 (in response to the question \"Why do you look so upset?\")\n(As a matter of fact) My grade is not good.\n\n試験が終わったんです。 (explaining to a person who has caught you smiling)\nThe exam is over. (That's why I'm smiling.)\n\n¹ In casual exchanges, んです appears in its short form, んだ. In casual questions, んですか is replaced by の. \nWe will examine these further in Lesson 15.\n\n\nWhen it follows a noun or a な-adjective in the present tense affirmative, な comes in between.\n\n[Box]\nreport sentences    explanation sentences\nな-adjectives:      静かです           静かなんです\nnouns:             学生です           学生なんです\n[/Box]\n\nYou can use んです in questions to invite clarifications from the person you are talking to. It is very \noften used together with question words, such as どうして (why) and どうした (what has happened).\n\nA：どうして彼と別れたんですか。\nWhy did you break up with your boyfriend? (You've got to tell me.)\nB：彼、ぜんぜんお風呂に入らないんです。\nOh, him. He never takes a bath. (That's a good enough reason, isn't it?)\n\nA：どうしたんですか。\nWhat happened? (You look shattered.)\nB：うちの猫が死んだんです。²\nMy cat died. (That should explain how I look today.)\n\nYou can also use んです to provide an additional comment on what has just been said.\n\nA：かわいいノートですね。\nThat's a cute notebook.\nB：ええ、日本で買ったんです。\nYou bet. I bought it in Japan (for your information).\n\nIn the written language, you see のです instead of んです. It has the same functions but is stylistically more formal.\n\n² A どうしたんですか question is best answered by a んです sentence with the subject marked with the particle \nが rather than は, as in this example. See Lesson 8 for a related discussion.\n\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 12,
+  "sublesson": 2,
+  "page": [278],
+  "topic": "〜すぎる",
+  "chunk_id": 73,
+  "text":"\nVerb stems may be followed by the helping verb すぎる, which means \"too much,\" or \"to excess.\" すぎる \nconjugates as a regular ru-verb.\n\n早く起きすぎました。  \n*I got up too early.*\n\n食べすぎてはいけません。  \n*You must not eat too much.*\n\nすぎる can also follow い- and な-adjective bases (the parts which do not change in conjugations); you drop \nthe い and な at the end of the adjectives and then add すぎる.³\n\n(高い) この本は高すぎます。  \n*This book is too expensive.*\n\n(静かな) この町は静かすぎます。  \n*This town is too quiet.*\n\n**verb stem/adjective stem + すぎる     ...too much**\n\nYou use すぎる when something is beyond normal or proper, suggesting that you do not welcome it. Thus \n親切すぎます (too kind) for example is not a straightforward compliment. Use modifiers like とても and \nすごく if you simply want to say that something is in a high degree.\n\n³ In addition to the verb conjugation, we also use the noun すぎ, as in 食べすぎです.\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 12,
+  "sublesson": 3,
+  "page": [278],
+  "topic": "〜ほうがいいです",
+  "chunk_id": 74,
+  "text": "\nほうがいいです \"it is better (for you) to do...\" is a sentence-final expression which you can use to\n give advice. ほうがいいです follows a verb in the short form. You usually use the past tense of a verb with \n ほうがいいです if the verb is in the affirmative. When the advice is in the negative, however, the verb is in \n the present tense.\n\n**verb (short, past, affirmative)  } + ほうがいいです     It is better.**  \n**verb (short, present, negative)  }                      It is better not...**\n\nもっと野菜を食べたほうがいいですよ。  \n*You'd better eat more vegetables.*\n\n授業を休まないほうがいいですよ。  \n*It is better not to skip classes.*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 12,
+  "sublesson": 4,
+  "page": [279],
+  "topic": "〜ので",
+  "chunk_id": 75,
+  "text": "\nYou can use ので to give the reason for the situation described in the balance of the sentence. Semantically, \nので is very similar to から. Stylistically, ので sounds slightly more formal than から and is used extensively \nin the written language.\n\n**(reason) ので (situation)。     (situation), because (reason).**\n\nいつも日本語で話すので、日本語が上手になりました。  \n*My Japanese has improved, because I always speak Japanese.*\n\n宿題がたくさんあったので、きのうの夜、寝ませんでした。  \n*I did not sleep last night, because I had a lot of homework.*\n\nThe reason part of a ので sentence usually is in a short form. When ので follows a な-adjective or a noun in a \npresent tense affirmative clause, な comes in between, as it did with the explanatory predicate んです.\n\nその人はいじわるなので、きらいです。     (Compare: いじわるだから)  \n*I do not like that person, because he is mean.*\n\n今日は日曜日なので、銀行は休みです。     (Compare: 日曜日だから)  \n*Banks are closed, because today is a Sunday.*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 12,
+  "sublesson": 5,
+  "page": [279,280],
+  "topic": "〜なければいけません / 〜なきゃいけません",
+  "chunk_id": 76,
+  "text": "\nWe use なければいけません and なきゃいけません⁴ to say that it is necessary to do something, or \"must.\" The \nなければ variant is more formal and often seen in the written language, while the なきゃ variant is very \ncolloquial and is mainly found in the spoken language.\n\n試験があるから、勉強しなければいけません / なきゃいけません。  \n*I have to study, because there will be an exam.*\n\n⁴ There are more varieties for \"must\" sentences: なくちゃいけません, なくてはいけません, and ないといけません. \nYou can also substitute なりません for いけません in the なければ and なきゃ combinations, like なければなりません, \nなきゃなりません.\n\nなければ and なきゃ mean \"if you do not do...,\" and いけません roughly means \"you cannot go\"; なければいけません \nand なきゃいけません therefore literally mean \"you cannot go not doing...,\" with the double negatives giving \nrise to the affirmative sense of the mandate. な in なければ and なきゃ comes from the negative ない. Just drop \nthe last い and replace it with ければ or きゃ.\n\n**verb     short negative               \"must\"**  \n食べる      食べない        →    食べなければいけません / 食べなきゃいけません  \n言う        言わない        →    言わなければいけません / 言わなきゃいけません  \nする        しない          →    しなければいけません / しなきゃいけません  \nくる        こない          →    こなければいけません / こなきゃいけません\n\nYou can change いけません to いけませんでした to say you had to. You can use the short form なきゃいけない in \ncasual speech. You can further shorten it to just なきゃ.\n\nけさは、六時に起きなきゃいけませんでした。     (long form, past)  \n*I had to get up at six this morning.*\n\n彼女が来るから、部屋を掃除しなきゃ(いけない)。   (short form, present)  \n*I must clean the room, because my girlfriend is coming.*\n"
+},
+{
+  "book": "Genki 1",
+  "lesson": 12,
+  "sublesson": 6,
+  "page": [280,281],
+  "topic": "〜でしょうか",
+  "chunk_id": 77,
+  "text": "\nIf you ask somebody a question that they do not know the answer to, they may be embarrassed. You can avoid \nsuch awkward situations by phrasing the question using でしょうか, which adds a note of tentativeness and politeness.\n\nA：あした、雨が降るでしょうか。  \n*Would it rain tomorrow?*\n\nB：降ると思います。  \n*I think it will.*\n\nでしょう means probably. By asking a でしょうか question, you are implying that you think the listener \nprobably has a better-informed opinion, which you would appreciate.\n\nでしょうか follows short form predicates (affirmative or negative, present or past). When it follows a noun \nor a な-adjective in a present tense affirmative sentence, it directly follows them, without だ in between.\n\n来週は暖かいでしょうか。  \n*Would you say that it will be warm next week?*\n\nトマトは野菜でしょうか。    (× 野菜だでしょうか)  \n*Is a tomato a vegetable?*\n\nこれ、もう話したでしょうか。  \n*Have I told you about this already?*\n\nYou can use the non-interrogative でしょう to make a guess. You can add たぶん earlier in the sentence to \nsignal that it is a guess.⁵\n\nたぶんあしたは暑くないでしょう。  \n*I bet it will not be cold tomorrow.*\n\n"
+}
+]
