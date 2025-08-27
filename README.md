@@ -1,6 +1,6 @@
-# 📘 JLPT RAG Tutor (Genki)
+# 📘 Language Learning Rag Chatbot
 
-A **local Retrieval-Augmented Generation (RAG)** application for Japanese language learning, built with **Streamlit** and powered by local models via **Ollama**.
+A **local Retrieval-Augmented Generation (RAG)** application for language learning, built with **Streamlit** and powered by local models via **Ollama**.
 
 ## 🎯 Purpose
 
