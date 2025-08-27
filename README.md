@@ -129,6 +129,4 @@ lang-rag-chatbot/
 
 ---
 
-## 🤝 Contributing
 
-Feel free to **fork this project** and submit pull requests! This is primarily a learning/portfolio project, but improvements are welcome.
