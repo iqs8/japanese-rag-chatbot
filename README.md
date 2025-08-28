@@ -20,15 +20,13 @@ I created this project while learning Japanese to test how a smaller model (Qwen
 
 
 
-### Smart Filtering
-**Textbook content presents unique challenges for semantic matching** - the same basic grammar points appear across multiple lessons with similar vocabulary and explanations, making it difficult for vector similarity to distinguish between them. This is unlike querying a story where events have distinct contexts and locations.
+### Intelligent Content Filtering
+The system retrieves the top 3 most semantically relevant chunks from your textbook content, allowing it to pull from different lessons that build on each other or provide complementary information. This works well for most queries since Japanese grammar concepts often connect across lessons.
 
-To address this, the system includes **intelligent filtering**:
+For more targeted learning, you can:
+- **Specify lessons in your question**: "lesson 3 sublesson 2 te-form"
+- **Use sidebar filters** to focus on specific lessons or sublessons
 
-- **Specify lessons in your question**: `"lesson 3 sublesson 2 te-form"`
-- **Use sidebar filters** to override and focus on specific content  
-- **Structured metadata filtering** ensures you get content from the right lesson/sublesson
-- **Hybrid approach**: Combines semantic search with precise content filtering for better results
 
 ## 🚀 Prerequisites
 
@@ -99,9 +97,9 @@ The app pulls from **Genki 1 textbook content** (`Data/Genki1.json`) structured 
 
 ### 🔍 Smart Context Retrieval
 - **Semantic search** through educational content
-- **Sidebar filters** for lesson/sublesson targeting
+- **Sidebar/prompt filters** for lesson/sublesson targeting
 - **Source material verification** - see exactly what content was used
-- **Hybrid filtering** to overcome limitations of pure vector similarity
+- **Flexible approach**: general exploration or focused review
 
 ### 🔄 Force Reset Functionality
 - **UI Reset**: Use the "🧹 Wipe & Rebuild Chroma Collection" button in the sidebar
