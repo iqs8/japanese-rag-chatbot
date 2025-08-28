@@ -334,10 +334,12 @@ if user_input:
             "sources": build_sources(results),  # attach sources here
         })
 
-        with st.expander("📚 Sources"):
-            for r in results:
-                st.markdown(
-                    f"- **Lesson {r.metadata['lesson']} Sub {r.metadata['sublesson']}** — {r.metadata['topic']}\n\n"
-                    f"    {r.page_content[:750]}..."
-                )
+        with st.expander(f"📚 Sources ({len(results)})", expanded=False):
+            for i, r in enumerate(results, 1):
+                with st.expander(
+                    f"Source {i}: Lesson {r.metadata['lesson']} Sub {r.metadata['sublesson']} — {r.metadata['topic']}",
+                    expanded=False,
+                ):
+                    snippet = (r.page_content or "").strip().replace("\n", " ")
+                    st.markdown(snippet[:750] + "…")
 
