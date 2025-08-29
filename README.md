@@ -2,6 +2,9 @@
 
 A **local Retrieval-Augmented Generation (RAG)** chatbot for Japanese language learning, built with **Streamlit** and powered by **Qwen3:1.7b** via **Ollama**.
 
+## 📺 Demo
+[![Watch the demo](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/v2RmMIp89F0)
+
 ## 🧠 Context
 
 **RAG (Retrieval-Augmented Generation)** enhances language models by providing relevant context from a knowledge base before generating responses. This approach is particularly valuable for domain-specific knowledge, privacy, consistency, and source verification.
